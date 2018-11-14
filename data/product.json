@@ -1,0 +1,32 @@
+[
+    {
+        "_id": 1,
+        "productKey": "Coffee Mug",
+        "description": "Best mug ever!",
+        "unitPrice": 9.99
+    },
+    {
+        "_id": 2,
+        "productKey": "Tshirt",
+        "description": "Even better shirt",
+        "unitPrice": 24.99
+    },
+    {
+        "_id": 3,
+        "productKey": "Tea Pot",
+        "description": "Best Tea Pot ever!",
+        "unitPrice": 5.99
+    },
+    {
+        "_id": 4,
+        "productKey": "Pant",
+        "description": "Good Pants",
+        "unitPrice": 20.99
+    },
+    {
+        "_id": 5,
+        "productKey": "Mobile",
+        "description": "Latest Mobile",
+        "unitPrice": 539.99
+    }
+]

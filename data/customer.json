@@ -1,0 +1,62 @@
+[
+    {
+        "_id": 1,
+        "email": "dcase@nwmissouri.edu",
+        "given": "Denise",
+        "family": "Case",
+        "street1": "800 University Drive",
+        "street2": "",
+        "city": "Maryville",
+        "state":"MO",
+        "zip": 64468,
+        "country": "USA"
+    },
+    {
+        "_id": 2,
+        "email": "S533577@nwmissouri.edu",
+        "given": "Vamshi",
+        "family": "Nuka",
+        "street1": "1151 N College Drive",
+        "street2": "",
+        "city": "Maryville",
+        "state":"MO",
+        "zip": 64468,
+        "country": "USA"
+    },
+    {
+        "_id": 3,
+        "email": "S533566@nwmissouri.edu",
+        "given": "Sneha",
+        "family": "M",
+        "street1": "1151 N College Drive",
+        "street2": "",
+        "city": "Maryville",
+        "state":"MO",
+        "zip": 64468,
+        "country": "USA"
+    },
+    {
+        "_id": 4,
+        "email": "S533555@nwmissouri.edu",
+        "given": "Lakshmi",
+        "family": "V",
+        "street1": "1151 N College Drive",
+        "street2": "",
+        "city": "Maryville",
+        "state":"MO",
+        "zip": 64468,
+        "country": "USA"
+    },
+    {
+        "_id": 5,
+        "email": "S533444@nwmissouri.edu",
+        "given": "Rayan",
+        "family": "A",
+        "street1": "1151 N College Drive",
+        "street2": "",
+        "city": "Maryville",
+        "state":"MO",
+        "zip": 64468,
+        "country": "USA"
+    }
+]
