@@ -1,0 +1,94 @@
+2018-11-14T02:46:29.629Z - info: Environment variables loaded.
+2018-11-14T02:46:29.692Z - error: uncaughtException: ENOENT: no such file or directory, stat 'C:\Users\S533573\Documents\44-563\supersales\public\images\favicon.ico' date=Tue Nov 13 2018 20:46:29 GMT-0600 (Central Standard Time), pid=74084, uid=null, gid=null, cwd=C:\Users\S533573\Documents\44-563\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533573\Documents\44-563\supersales\app.js], rss=54444032, heapTotal=38699008, heapUsed=22447576, external=18483576, loadavg=[0, 0, 0], uptime=372823.1667968
+Error: ENOENT: no such file or directory, stat 'C:\Users\S533573\Documents\44-563\supersales\public\images\favicon.ico'
+    at Object.fs.statSync (fs.js:948:11)
+    at resolveSync (C:\Users\S533573\Documents\44-563\supersales\node_modules\serve-favicon\index.js:172:17)
+    at favicon (C:\Users\S533573\Documents\44-563\supersales\node_modules\serve-favicon\index.js:61:12)
+    at Object.<anonymous> (C:\Users\S533573\Documents\44-563\supersales\app.js:49:9)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-14T02:52:59.577Z - info: Environment variables loaded.
+2018-11-14T02:52:59.620Z - error: uncaughtException: ENOENT: no such file or directory, stat 'C:\Users\S533573\Documents\44-563\supersales\public\images\favicon.ico' date=Tue Nov 13 2018 20:52:59 GMT-0600 (Central Standard Time), pid=65000, uid=null, gid=null, cwd=C:\Users\S533573\Documents\44-563\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533573\Documents\44-563\supersales\app.js], rss=54165504, heapTotal=37650432, heapUsed=22721744, external=18501252, loadavg=[0, 0, 0], uptime=373213.1094808
+Error: ENOENT: no such file or directory, stat 'C:\Users\S533573\Documents\44-563\supersales\public\images\favicon.ico'
+    at Object.fs.statSync (fs.js:948:11)
+    at resolveSync (C:\Users\S533573\Documents\44-563\supersales\node_modules\serve-favicon\index.js:172:17)
+    at favicon (C:\Users\S533573\Documents\44-563\supersales\node_modules\serve-favicon\index.js:61:12)
+    at Object.<anonymous> (C:\Users\S533573\Documents\44-563\supersales\app.js:49:9)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-14T02:54:33.512Z - info: Environment variables loaded.
+2018-11-14T02:54:33.570Z - error: uncaughtException: Cannot find module './utils/seeder.js' date=Tue Nov 13 2018 20:54:33 GMT-0600 (Central Standard Time), pid=75272, uid=null, gid=null, cwd=C:\Users\S533573\Documents\44-563\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533573\Documents\44-563\supersales\app.js], rss=52776960, heapTotal=38699008, heapUsed=23486200, external=18530269, loadavg=[0, 0, 0], uptime=373307.0484369
+Error: Cannot find module './utils/seeder.js'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533573\Documents\44-563\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-14T02:55:09.152Z - info: Environment variables loaded.
+2018-11-14T02:55:09.220Z - error: uncaughtException: Cannot find module './utils/seeder.js' date=Tue Nov 13 2018 20:55:09 GMT-0600 (Central Standard Time), pid=73656, uid=null, gid=null, cwd=C:\Users\S533573\Documents\44-563\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533573\Documents\44-563\supersales\app.js], rss=55091200, heapTotal=38699008, heapUsed=21773136, external=18415481, loadavg=[0, 0, 0], uptime=373342.6946772
+Error: Cannot find module './utils/seeder.js'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533573\Documents\44-563\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-14T02:56:25.708Z - info: Environment variables loaded.
+2018-11-14T02:56:25.747Z - error: uncaughtException: Cannot find module './utils/seeder.js' date=Tue Nov 13 2018 20:56:25 GMT-0600 (Central Standard Time), pid=75180, uid=null, gid=null, cwd=C:\Users\S533573\Documents\44-563\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533573\Documents\44-563\supersales\app.js], rss=52879360, heapTotal=38174720, heapUsed=23557784, external=18530269, loadavg=[0, 0, 0], uptime=373419.23824
+Error: Cannot find module './utils/seeder.js'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533573\Documents\44-563\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-14T02:57:02.945Z - info: Environment variables loaded.
+2018-11-14T02:57:02.983Z - error: uncaughtException: Cannot find module './utils/seeder.js' date=Tue Nov 13 2018 20:57:02 GMT-0600 (Central Standard Time), pid=73920, uid=null, gid=null, cwd=C:\Users\S533573\Documents\44-563\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533573\Documents\44-563\supersales\app.js], rss=56111104, heapTotal=38174720, heapUsed=25432160, external=19216170, loadavg=[0, 0, 0], uptime=373456.4709484
+Error: Cannot find module './utils/seeder.js'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533573\Documents\44-563\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
