@@ -130,3 +130,62 @@ Error: Cannot find module '../data/puppies.json'
     at Object.Module._extensions..js (module.js:664:10)
     at Module.load (module.js:566:32)
 2018-11-14T03:00:02.676Z - info: Environment variables loaded.
+2018-11-14T03:28:34.092Z - info: Environment variables loaded.
+2018-11-14T03:28:34.192Z - error: uncaughtException: Cannot find module '../data/puppies.json' date=Tue Nov 13 2018 21:28:34 GMT-0600 (Central Standard Time), pid=77856, uid=null, gid=null, cwd=C:\Users\S533573\Documents\44-563\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533573\Documents\44-563\supersales\app.js], rss=55181312, heapTotal=38174720, heapUsed=24111016, external=18670595, loadavg=[0, 0, 0], uptime=375347.6701593
+Error: Cannot find module '../data/puppies.json'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533573\Documents\44-563\supersales\utils\seeder.js:4:17)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533573\Documents\44-563\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+2018-11-14T03:28:53.469Z - info: Environment variables loaded.
+2018-11-14T03:28:53.630Z - error: uncaughtException: Cannot find module '../data/puppies.json' date=Tue Nov 13 2018 21:28:53 GMT-0600 (Central Standard Time), pid=72268, uid=null, gid=null, cwd=C:\Users\S533573\Documents\44-563\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533573\Documents\44-563\supersales\app.js], rss=54554624, heapTotal=38174720, heapUsed=24806280, external=18713144, loadavg=[0, 0, 0], uptime=375367.1021055
+Error: Cannot find module '../data/puppies.json'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533573\Documents\44-563\supersales\utils\seeder.js:4:17)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533573\Documents\44-563\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+2018-11-14T03:34:14.055Z - info: Environment variables loaded.
+2018-11-14T03:34:14.090Z - info: START seeder.
+2018-11-14T03:34:14.094Z - debug: 5 product seeded
+2018-11-14T03:34:14.095Z - debug: 5 order seeded
+2018-11-14T03:34:14.097Z - debug: 5 customer seeded
+2018-11-14T03:34:14.099Z - debug: 5 Order Line seeded
+2018-11-14T03:34:14.099Z - info: END Seeder. Sample data read and verified.
+2018-11-14T03:34:34.492Z - info: Environment variables loaded.
+2018-11-14T03:34:34.561Z - info: START seeder.
+2018-11-14T03:34:34.568Z - debug: 5 product seeded
+2018-11-14T03:34:34.572Z - debug: 5 order seeded
+2018-11-14T03:34:34.575Z - debug: 5 customer seeded
+2018-11-14T03:34:34.578Z - debug: 5 Order Line seeded
+2018-11-14T03:34:34.580Z - info: END Seeder. Sample data read and verified.
+2018-11-14T03:34:53.080Z - info: Environment variables loaded.
+2018-11-14T03:34:53.121Z - info: START seeder.
+2018-11-14T03:34:53.124Z - debug: 5 product seeded
+2018-11-14T03:34:53.126Z - debug: 5 order seeded
+2018-11-14T03:34:53.128Z - debug: 5 customer seeded
+2018-11-14T03:34:53.130Z - debug: 5 Order Line seeded
+2018-11-14T03:34:53.130Z - info: END Seeder. Sample data read and verified.
