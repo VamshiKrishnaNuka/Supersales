@@ -1,0 +1,15 @@
+2018-11-14T02:46:29.629Z - info: Environment variables loaded.
+2018-11-14T02:46:29.692Z - error: uncaughtException: ENOENT: no such file or directory, stat 'C:\Users\S533573\Documents\44-563\supersales\public\images\favicon.ico' date=Tue Nov 13 2018 20:46:29 GMT-0600 (Central Standard Time), pid=74084, uid=null, gid=null, cwd=C:\Users\S533573\Documents\44-563\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533573\Documents\44-563\supersales\app.js], rss=54444032, heapTotal=38699008, heapUsed=22447576, external=18483576, loadavg=[0, 0, 0], uptime=372823.1667968
+Error: ENOENT: no such file or directory, stat 'C:\Users\S533573\Documents\44-563\supersales\public\images\favicon.ico'
+    at Object.fs.statSync (fs.js:948:11)
+    at resolveSync (C:\Users\S533573\Documents\44-563\supersales\node_modules\serve-favicon\index.js:172:17)
+    at favicon (C:\Users\S533573\Documents\44-563\supersales\node_modules\serve-favicon\index.js:61:12)
+    at Object.<anonymous> (C:\Users\S533573\Documents\44-563\supersales\app.js:49:9)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
