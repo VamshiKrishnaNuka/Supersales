@@ -92,3 +92,41 @@ Error: Cannot find module './utils/seeder.js'
     at Function.Module.runMain (module.js:694:10)
     at startup (bootstrap_node.js:204:16)
     at bootstrap_node.js:625:3
+2018-11-14T02:58:56.200Z - info: Environment variables loaded.
+2018-11-14T02:58:56.298Z - error: uncaughtException: Cannot find module '../data/puppies.json' date=Tue Nov 13 2018 20:58:56 GMT-0600 (Central Standard Time), pid=75860, uid=null, gid=null, cwd=C:\Users\S533573\Documents\44-563\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533573\Documents\44-563\supersales\app.js], rss=55541760, heapTotal=38699008, heapUsed=23366624, external=18616101, loadavg=[0, 0, 0], uptime=373569.7862277
+Error: Cannot find module '../data/puppies.json'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533573\Documents\44-563\supersales\utils\seeder.js:4:17)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533573\Documents\44-563\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+2018-11-14T03:00:02.769Z - error: uncaughtException: Cannot find module '../data/puppies.json' date=Tue Nov 13 2018 21:00:02 GMT-0600 (Central Standard Time), pid=76520, uid=null, gid=null, cwd=C:\Users\S533573\Documents\44-563\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533573\Documents\44-563\supersales\app.js], rss=55525376, heapTotal=37650432, heapUsed=25896264, external=18790338, loadavg=[0, 0, 0], uptime=373636.25418
+Error: Cannot find module '../data/puppies.json'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533573\Documents\44-563\supersales\utils\seeder.js:4:17)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533573\Documents\44-563\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+2018-11-14T03:00:02.676Z - info: Environment variables loaded.
