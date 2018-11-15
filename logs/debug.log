@@ -189,3 +189,17 @@ Error: Cannot find module '../data/puppies.json'
 2018-11-14T03:34:53.128Z - debug: 5 customer seeded
 2018-11-14T03:34:53.130Z - debug: 5 Order Line seeded
 2018-11-14T03:34:53.130Z - info: END Seeder. Sample data read and verified.
+2018-11-14T03:37:40.051Z - info: Environment variables loaded.
+2018-11-14T03:37:40.112Z - info: START seeder.
+2018-11-14T03:37:40.119Z - debug: 5 product seeded
+2018-11-14T03:37:40.123Z - debug: 5 order seeded
+2018-11-14T03:37:40.126Z - debug: 5 customer seeded
+2018-11-14T03:37:40.129Z - debug: 5 Order Line seeded
+2018-11-14T03:37:40.130Z - info: END Seeder. Sample data read and verified.
+2018-11-14T04:01:28.525Z - info: Environment variables loaded.
+2018-11-14T04:01:28.570Z - info: START seeder.
+2018-11-14T04:01:28.575Z - debug: 5 product seeded
+2018-11-14T04:01:28.577Z - debug: 5 order seeded
+2018-11-14T04:01:28.579Z - debug: 5 customer seeded
+2018-11-14T04:01:28.581Z - debug: 5 Order Line seeded
+2018-11-14T04:01:28.582Z - info: END Seeder. Sample data read and verified.
