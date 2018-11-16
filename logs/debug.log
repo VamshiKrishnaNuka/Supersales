@@ -203,3 +203,31 @@ Error: Cannot find module '../data/puppies.json'
 2018-11-14T04:01:28.579Z - debug: 5 customer seeded
 2018-11-14T04:01:28.581Z - debug: 5 Order Line seeded
 2018-11-14T04:01:28.582Z - info: END Seeder. Sample data read and verified.
+2018-11-16T00:13:33.374Z - info: Environment variables loaded.
+2018-11-16T00:13:33.413Z - info: START seeder.
+2018-11-16T00:13:33.415Z - debug: 5 product seeded
+2018-11-16T00:13:33.417Z - debug: 5 order seeded
+2018-11-16T00:13:33.419Z - debug: 5 customer seeded
+2018-11-16T00:13:33.421Z - debug: 5 Order Line seeded
+2018-11-16T00:13:33.421Z - info: END Seeder. Sample data read and verified.
+2018-11-16T00:24:14.259Z - info: Environment variables loaded.
+2018-11-16T00:24:14.303Z - info: START seeder.
+2018-11-16T00:24:14.307Z - debug: 5 product seeded
+2018-11-16T00:24:14.308Z - debug: 5 order seeded
+2018-11-16T00:24:14.311Z - debug: 5 customer seeded
+2018-11-16T00:24:14.312Z - debug: 5 Order Line seeded
+2018-11-16T00:24:14.312Z - info: END Seeder. Sample data read and verified.
+2018-11-16T00:25:31.921Z - info: Environment variables loaded.
+2018-11-16T00:25:31.964Z - info: START seeder.
+2018-11-16T00:25:31.968Z - debug: 5 product seeded
+2018-11-16T00:25:31.970Z - debug: 5 order seeded
+2018-11-16T00:25:31.972Z - debug: 5 customer seeded
+2018-11-16T00:25:31.973Z - debug: 5 Order Line seeded
+2018-11-16T00:25:31.974Z - info: END Seeder. Sample data read and verified.
+2018-11-16T00:33:37.177Z - info: Environment variables loaded.
+2018-11-16T00:33:37.218Z - info: START seeder.
+2018-11-16T00:33:37.221Z - debug: 5 product seeded
+2018-11-16T00:33:37.223Z - debug: 5 order seeded
+2018-11-16T00:33:37.225Z - debug: 5 customer seeded
+2018-11-16T00:33:37.226Z - debug: 5 Order Line seeded
+2018-11-16T00:33:37.227Z - info: END Seeder. Sample data read and verified.
