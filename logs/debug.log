@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2018-11-14T02:46:29.629Z - info: Environment variables loaded.
 2018-11-14T02:46:29.692Z - error: uncaughtException: ENOENT: no such file or directory, stat 'C:\Users\S533573\Documents\44-563\supersales\public\images\favicon.ico' date=Tue Nov 13 2018 20:46:29 GMT-0600 (Central Standard Time), pid=74084, uid=null, gid=null, cwd=C:\Users\S533573\Documents\44-563\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533573\Documents\44-563\supersales\app.js], rss=54444032, heapTotal=38699008, heapUsed=22447576, external=18483576, loadavg=[0, 0, 0], uptime=372823.1667968
 Error: ENOENT: no such file or directory, stat 'C:\Users\S533573\Documents\44-563\supersales\public\images\favicon.ico'
@@ -189,6 +190,7 @@ Error: Cannot find module '../data/puppies.json'
 2018-11-14T03:34:53.128Z - debug: 5 customer seeded
 2018-11-14T03:34:53.130Z - debug: 5 Order Line seeded
 2018-11-14T03:34:53.130Z - info: END Seeder. Sample data read and verified.
+<<<<<<< HEAD
 2018-11-14T03:41:48.985Z - info: Environment variables loaded.
 2018-11-14T03:41:49.035Z - info: START seeder.
 2018-11-14T03:41:49.039Z - debug: 5 product seeded
@@ -203,3 +205,35 @@ Error: Cannot find module '../data/puppies.json'
 2018-11-14T19:38:30.105Z - debug: 5 customer seeded
 2018-11-14T19:38:30.109Z - debug: 5 Order Line seeded
 2018-11-14T19:38:30.109Z - info: END Seeder. Sample data read and verified.
+=======
+2018-11-14T03:37:40.051Z - info: Environment variables loaded.
+2018-11-14T03:37:40.112Z - info: START seeder.
+2018-11-14T03:37:40.119Z - debug: 5 product seeded
+2018-11-14T03:37:40.123Z - debug: 5 order seeded
+2018-11-14T03:37:40.126Z - debug: 5 customer seeded
+2018-11-14T03:37:40.129Z - debug: 5 Order Line seeded
+2018-11-14T03:37:40.130Z - info: END Seeder. Sample data read and verified.
+2018-11-14T04:01:28.525Z - info: Environment variables loaded.
+2018-11-14T04:01:28.570Z - info: START seeder.
+2018-11-14T04:01:28.575Z - debug: 5 product seeded
+2018-11-14T04:01:28.577Z - debug: 5 order seeded
+2018-11-14T04:01:28.579Z - debug: 5 customer seeded
+2018-11-14T04:01:28.581Z - debug: 5 Order Line seeded
+2018-11-14T04:01:28.582Z - info: END Seeder. Sample data read and verified.
+2018-11-16T00:38:23.463Z - info: Environment variables loaded.
+2018-11-16T00:38:23.536Z - info: START seeder.
+2018-11-16T00:38:23.543Z - debug: 5 product seeded
+2018-11-16T00:38:23.545Z - debug: 5 order seeded
+2018-11-16T00:38:23.549Z - debug: 5 customer seeded
+2018-11-16T00:38:23.552Z - debug: 5 Order Line seeded
+2018-11-16T00:38:23.552Z - info: END Seeder. Sample data read and verified.
+2018-11-16T00:39:02.877Z - info: Environment variables loaded.
+2018-11-16T00:39:02.924Z - info: START seeder.
+2018-11-16T00:39:02.932Z - debug: 5 product seeded
+2018-11-16T00:39:02.934Z - debug: 5 order seeded
+2018-11-16T00:39:02.936Z - debug: 5 customer seeded
+2018-11-16T00:39:02.939Z - debug: 5 Order Line seeded
+2018-11-16T00:39:02.939Z - info: END Seeder. Sample data read and verified.
+=======
+>>>>>>> c03ace56420b641397ddd18e6ddfdb5a5b27c2c0
+>>>>>>> aa509f19b6b48facaf5e56569360ab20a2194cd1

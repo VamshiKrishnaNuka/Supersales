@@ -20,8 +20,10 @@ router.get('/', (req, res, next) => {
 })
 
 // Defer path requests to a particular controller
-router.use('/about', require('../controllers/about.js'))
-router.use('/puppy', require('../controllers/puppy.js'))
-
+// router.use('/about', require('../controllers/about.js'))
+router.use('/cutomer', require('../controllers/customer.js'))
+router.use('/order', require('../controllers/order.js'))
+router.use('/orderLineItem', require('../controllers/orderLineItem.js'))
+router.use('/product', require('../controllers/product.js'))
 LOG.debug('END routing')
 module.exports = router
