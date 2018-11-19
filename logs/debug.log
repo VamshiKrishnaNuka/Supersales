@@ -237,3 +237,2082 @@ Error: Cannot find module '../data/puppies.json'
 =======
 >>>>>>> c03ace56420b641397ddd18e6ddfdb5a5b27c2c0
 >>>>>>> aa509f19b6b48facaf5e56569360ab20a2194cd1
+2018-11-16T02:12:33.459Z - info: Environment variables loaded.
+2018-11-16T02:12:33.567Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Thu Nov 15 2018 20:12:33 GMT-0600 (Central Standard Time), pid=9880, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54620160, heapTotal=38772736, heapUsed=24370216, external=18678273, loadavg=[0, 0, 0], uptime=10789.0548862
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-16T02:12:33.515Z - info: START seeder.
+2018-11-16T02:12:33.521Z - debug: 5 product seeded
+2018-11-16T02:12:33.523Z - debug: 5 order seeded
+2018-11-16T02:12:33.526Z - debug: 5 customer seeded
+2018-11-16T02:12:33.528Z - debug: 5 Order Line seeded
+2018-11-16T02:12:33.528Z - info: END Seeder. Sample data read and verified.
+2018-11-16T02:12:55.840Z - info: Environment variables loaded.
+2018-11-16T02:12:55.952Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Thu Nov 15 2018 20:12:55 GMT-0600 (Central Standard Time), pid=26812, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54710272, heapTotal=38772736, heapUsed=23774072, external=18619347, loadavg=[0, 0, 0], uptime=10811.4364179
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-16T02:12:55.895Z - info: START seeder.
+2018-11-16T02:12:55.900Z - debug: 5 product seeded
+2018-11-16T02:12:55.902Z - debug: 5 order seeded
+2018-11-16T02:12:55.906Z - debug: 5 customer seeded
+2018-11-16T02:12:55.910Z - debug: 5 Order Line seeded
+2018-11-16T02:12:55.910Z - info: END Seeder. Sample data read and verified.
+2018-11-16T02:13:18.124Z - info: Environment variables loaded.
+2018-11-16T02:13:18.213Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Thu Nov 15 2018 20:13:18 GMT-0600 (Central Standard Time), pid=32588, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=57020416, heapTotal=39821312, heapUsed=22519928, external=18371305, loadavg=[0, 0, 0], uptime=10833.7013204
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-16T02:13:18.173Z - info: START seeder.
+2018-11-16T02:13:18.176Z - debug: 5 product seeded
+2018-11-16T02:13:18.181Z - debug: 5 order seeded
+2018-11-16T02:13:18.182Z - debug: 5 customer seeded
+2018-11-16T02:13:18.184Z - debug: 5 Order Line seeded
+2018-11-16T02:13:18.185Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:13:26.782Z - info: Environment variables loaded.
+2018-11-18T04:13:26.851Z - info: START seeder.
+2018-11-18T04:13:26.855Z - debug: 5 product seeded
+2018-11-18T04:13:26.856Z - debug: 5 order seeded
+2018-11-18T04:13:26.858Z - debug: 5 customer seeded
+2018-11-18T04:13:26.859Z - debug: 5 Order Line seeded
+2018-11-18T04:13:26.859Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:13:37.119Z - info: Environment variables loaded.
+2018-11-18T04:13:37.169Z - info: START seeder.
+2018-11-18T04:13:37.172Z - debug: 5 product seeded
+2018-11-18T04:13:37.174Z - debug: 5 order seeded
+2018-11-18T04:13:37.176Z - debug: 5 customer seeded
+2018-11-18T04:13:37.179Z - debug: 5 Order Line seeded
+2018-11-18T04:13:37.179Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:21:02.538Z - info: Environment variables loaded.
+2018-11-18T04:21:02.640Z - info: START seeder.
+2018-11-18T04:21:02.649Z - debug: 5 product seeded
+2018-11-18T04:21:02.658Z - debug: 5 order seeded
+2018-11-18T04:21:02.664Z - debug: 5 customer seeded
+2018-11-18T04:21:02.668Z - debug: 5 Order Line seeded
+2018-11-18T04:21:02.673Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:21:02.883Z - info: Environment variables loaded.
+2018-11-18T04:21:03.070Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:21:03 GMT-0600 (Central Standard Time), pid=82568, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54730752, heapTotal=38248448, heapUsed=23931576, external=18619347, loadavg=[0, 0, 0], uptime=191298.5395832
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:21:02.975Z - info: START seeder.
+2018-11-18T04:21:02.982Z - debug: 5 product seeded
+2018-11-18T04:21:02.988Z - debug: 5 order seeded
+2018-11-18T04:21:02.995Z - debug: 5 customer seeded
+2018-11-18T04:21:03.000Z - debug: 5 Order Line seeded
+2018-11-18T04:21:03.000Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:21:05.878Z - info: Environment variables loaded.
+2018-11-18T04:21:05.934Z - info: START seeder.
+2018-11-18T04:21:05.938Z - debug: 5 product seeded
+2018-11-18T04:21:05.941Z - debug: 5 order seeded
+2018-11-18T04:21:05.944Z - debug: 5 customer seeded
+2018-11-18T04:21:05.947Z - debug: 5 Order Line seeded
+2018-11-18T04:21:05.947Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:21:06.085Z - info: Environment variables loaded.
+2018-11-18T04:21:06.264Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:21:06 GMT-0600 (Central Standard Time), pid=82360, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=57114624, heapTotal=39297024, heapUsed=22896840, external=18408944, loadavg=[0, 0, 0], uptime=191301.7114885
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:21:06.159Z - info: START seeder.
+2018-11-18T04:21:06.167Z - debug: 5 product seeded
+2018-11-18T04:21:06.170Z - debug: 5 order seeded
+2018-11-18T04:21:06.175Z - debug: 5 customer seeded
+2018-11-18T04:21:06.179Z - debug: 5 Order Line seeded
+2018-11-18T04:21:06.180Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:21:10.582Z - info: Environment variables loaded.
+2018-11-18T04:21:10.639Z - info: START seeder.
+2018-11-18T04:21:10.648Z - debug: 5 product seeded
+2018-11-18T04:21:10.657Z - debug: 5 order seeded
+2018-11-18T04:21:10.664Z - debug: 5 customer seeded
+2018-11-18T04:21:10.669Z - debug: 5 Order Line seeded
+2018-11-18T04:21:10.669Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:21:10.625Z - info: Environment variables loaded.
+2018-11-18T04:21:10.769Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:21:10 GMT-0600 (Central Standard Time), pid=79152, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54120448, heapTotal=38772736, heapUsed=24280568, external=18672570, loadavg=[0, 0, 0], uptime=191306.2315386
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:21:10.701Z - info: START seeder.
+2018-11-18T04:21:10.705Z - debug: 5 product seeded
+2018-11-18T04:21:10.707Z - debug: 5 order seeded
+2018-11-18T04:21:10.710Z - debug: 5 customer seeded
+2018-11-18T04:21:10.714Z - debug: 5 Order Line seeded
+2018-11-18T04:21:10.714Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:21:13.696Z - info: Environment variables loaded.
+2018-11-18T04:21:13.780Z - info: START seeder.
+2018-11-18T04:21:13.787Z - debug: 5 product seeded
+2018-11-18T04:21:13.791Z - debug: 5 order seeded
+2018-11-18T04:21:13.796Z - debug: 5 customer seeded
+2018-11-18T04:21:13.805Z - debug: 5 Order Line seeded
+2018-11-18T04:21:13.809Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:21:14.006Z - info: Environment variables loaded.
+2018-11-18T04:21:14.144Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:21:14 GMT-0600 (Central Standard Time), pid=82320, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55107584, heapTotal=38248448, heapUsed=25314360, external=18751597, loadavg=[0, 0, 0], uptime=191309.6145109
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:21:14.087Z - info: START seeder.
+2018-11-18T04:21:14.091Z - debug: 5 product seeded
+2018-11-18T04:21:14.093Z - debug: 5 order seeded
+2018-11-18T04:21:14.095Z - debug: 5 customer seeded
+2018-11-18T04:21:14.097Z - debug: 5 Order Line seeded
+2018-11-18T04:21:14.097Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:21:28.598Z - info: Environment variables loaded.
+2018-11-18T04:21:28.674Z - info: START seeder.
+2018-11-18T04:21:28.681Z - debug: 5 product seeded
+2018-11-18T04:21:28.686Z - debug: 5 order seeded
+2018-11-18T04:21:28.691Z - debug: 5 customer seeded
+2018-11-18T04:21:28.694Z - debug: 5 Order Line seeded
+2018-11-18T04:21:28.694Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:21:28.852Z - info: Environment variables loaded.
+2018-11-18T04:21:28.970Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:21:28 GMT-0600 (Central Standard Time), pid=82672, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54734848, heapTotal=38772736, heapUsed=23837960, external=18619347, loadavg=[0, 0, 0], uptime=191324.4354542
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:21:28.901Z - info: START seeder.
+2018-11-18T04:21:28.906Z - debug: 5 product seeded
+2018-11-18T04:21:28.910Z - debug: 5 order seeded
+2018-11-18T04:21:28.912Z - debug: 5 customer seeded
+2018-11-18T04:21:28.914Z - debug: 5 Order Line seeded
+2018-11-18T04:21:28.914Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:24:05.903Z - info: Environment variables loaded.
+2018-11-18T04:24:05.973Z - info: START seeder.
+2018-11-18T04:24:05.979Z - debug: 5 product seeded
+2018-11-18T04:24:05.981Z - debug: 5 order seeded
+2018-11-18T04:24:05.984Z - debug: 5 customer seeded
+2018-11-18T04:24:05.985Z - debug: 5 Order Line seeded
+2018-11-18T04:24:05.985Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:24:05.913Z - info: Environment variables loaded.
+2018-11-18T04:24:06.061Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:24:06 GMT-0600 (Central Standard Time), pid=77968, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54935552, heapTotal=39297024, heapUsed=23618688, external=18611155, loadavg=[0, 0, 0], uptime=191481.5312647
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:24:05.982Z - info: START seeder.
+2018-11-18T04:24:05.987Z - debug: 5 product seeded
+2018-11-18T04:24:05.991Z - debug: 5 order seeded
+2018-11-18T04:24:05.997Z - debug: 5 customer seeded
+2018-11-18T04:24:06.005Z - debug: 5 Order Line seeded
+2018-11-18T04:24:06.005Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:24:10.121Z - info: Environment variables loaded.
+2018-11-18T04:24:10.178Z - info: START seeder.
+2018-11-18T04:24:10.187Z - debug: 5 product seeded
+2018-11-18T04:24:10.190Z - debug: 5 order seeded
+2018-11-18T04:24:10.196Z - debug: 5 customer seeded
+2018-11-18T04:24:10.199Z - debug: 5 Order Line seeded
+2018-11-18T04:24:10.200Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:24:10.419Z - info: Environment variables loaded.
+2018-11-18T04:24:10.574Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:24:10 GMT-0600 (Central Standard Time), pid=79836, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54202368, heapTotal=39297024, heapUsed=24538224, external=18695301, loadavg=[0, 0, 0], uptime=191486.0436194
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:24:10.492Z - info: START seeder.
+2018-11-18T04:24:10.498Z - debug: 5 product seeded
+2018-11-18T04:24:10.501Z - debug: 5 order seeded
+2018-11-18T04:24:10.506Z - debug: 5 customer seeded
+2018-11-18T04:24:10.509Z - debug: 5 Order Line seeded
+2018-11-18T04:24:10.509Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:24:26.398Z - info: Environment variables loaded.
+2018-11-18T04:24:26.453Z - info: START seeder.
+2018-11-18T04:24:26.461Z - debug: 5 product seeded
+2018-11-18T04:24:26.463Z - debug: 5 order seeded
+2018-11-18T04:24:26.465Z - debug: 5 customer seeded
+2018-11-18T04:24:26.467Z - debug: 5 Order Line seeded
+2018-11-18T04:24:26.467Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:24:26.411Z - info: Environment variables loaded.
+2018-11-18T04:24:26.558Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:24:26 GMT-0600 (Central Standard Time), pid=79152, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55934976, heapTotal=37199872, heapUsed=26313048, external=18832435, loadavg=[0, 0, 0], uptime=191502.0272335
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:24:26.473Z - info: START seeder.
+2018-11-18T04:24:26.482Z - debug: 5 product seeded
+2018-11-18T04:24:26.488Z - debug: 5 order seeded
+2018-11-18T04:24:26.493Z - debug: 5 customer seeded
+2018-11-18T04:24:26.498Z - debug: 5 Order Line seeded
+2018-11-18T04:24:26.499Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:24:30.917Z - info: Environment variables loaded.
+2018-11-18T04:24:30.982Z - info: START seeder.
+2018-11-18T04:24:30.988Z - debug: 5 product seeded
+2018-11-18T04:24:31.022Z - debug: 5 order seeded
+2018-11-18T04:24:31.026Z - debug: 5 customer seeded
+2018-11-18T04:24:31.030Z - debug: 5 Order Line seeded
+2018-11-18T04:24:31.030Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:24:31.033Z - info: Environment variables loaded.
+2018-11-18T04:24:31.217Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:24:31 GMT-0600 (Central Standard Time), pid=83000, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55488512, heapTotal=38772736, heapUsed=23385400, external=18582228, loadavg=[0, 0, 0], uptime=191506.6820443
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:24:31.116Z - info: START seeder.
+2018-11-18T04:24:31.122Z - debug: 5 product seeded
+2018-11-18T04:24:31.126Z - debug: 5 order seeded
+2018-11-18T04:24:31.132Z - debug: 5 customer seeded
+2018-11-18T04:24:31.144Z - debug: 5 Order Line seeded
+2018-11-18T04:24:31.145Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:30:19.496Z - info: Environment variables loaded.
+2018-11-18T04:30:19.544Z - info: START seeder.
+2018-11-18T04:30:19.547Z - debug: 5 product seeded
+2018-11-18T04:30:19.549Z - debug: 5 order seeded
+2018-11-18T04:30:19.551Z - debug: 5 customer seeded
+2018-11-18T04:30:19.553Z - debug: 5 Order Line seeded
+2018-11-18T04:30:19.553Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:35:42.560Z - info: Environment variables loaded.
+2018-11-18T04:35:42.645Z - info: START seeder.
+2018-11-18T04:35:42.659Z - debug: 5 product seeded
+2018-11-18T04:35:42.686Z - debug: 5 order seeded
+2018-11-18T04:35:42.696Z - debug: 5 customer seeded
+2018-11-18T04:35:42.718Z - debug: 5 Order Line seeded
+2018-11-18T04:35:42.721Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:35:43.015Z - info: Environment variables loaded.
+2018-11-18T04:35:43.161Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:35:43 GMT-0600 (Central Standard Time), pid=84208, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55259136, heapTotal=38772736, heapUsed=23382456, external=18542118, loadavg=[0, 0, 0], uptime=192178.6343052
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:35:43.101Z - info: START seeder.
+2018-11-18T04:35:43.104Z - debug: 5 product seeded
+2018-11-18T04:35:43.106Z - debug: 5 order seeded
+2018-11-18T04:35:43.108Z - debug: 5 customer seeded
+2018-11-18T04:35:43.110Z - debug: 5 Order Line seeded
+2018-11-18T04:35:43.110Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:35:46.805Z - info: Environment variables loaded.
+2018-11-18T04:35:46.881Z - info: START seeder.
+2018-11-18T04:35:46.887Z - debug: 5 product seeded
+2018-11-18T04:35:46.891Z - debug: 5 order seeded
+2018-11-18T04:35:46.894Z - debug: 5 customer seeded
+2018-11-18T04:35:46.895Z - debug: 5 Order Line seeded
+2018-11-18T04:35:46.896Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:35:46.819Z - info: Environment variables loaded.
+2018-11-18T04:35:46.962Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:35:46 GMT-0600 (Central Standard Time), pid=84872, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54812672, heapTotal=38772736, heapUsed=23965200, external=18627539, loadavg=[0, 0, 0], uptime=192182.4330146
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:35:46.890Z - info: START seeder.
+2018-11-18T04:35:46.896Z - debug: 5 product seeded
+2018-11-18T04:35:46.898Z - debug: 5 order seeded
+2018-11-18T04:35:46.902Z - debug: 5 customer seeded
+2018-11-18T04:35:46.905Z - debug: 5 Order Line seeded
+2018-11-18T04:35:46.905Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:35:50.698Z - info: Environment variables loaded.
+2018-11-18T04:35:50.752Z - info: START seeder.
+2018-11-18T04:35:50.757Z - debug: 5 product seeded
+2018-11-18T04:35:50.763Z - debug: 5 order seeded
+2018-11-18T04:35:50.767Z - debug: 5 customer seeded
+2018-11-18T04:35:50.769Z - debug: 5 Order Line seeded
+2018-11-18T04:35:50.770Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:35:50.967Z - info: Environment variables loaded.
+2018-11-18T04:35:51.108Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:35:51 GMT-0600 (Central Standard Time), pid=84004, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55156736, heapTotal=38248448, heapUsed=25433560, external=18751597, loadavg=[0, 0, 0], uptime=192186.5797496
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:35:51.034Z - info: START seeder.
+2018-11-18T04:35:51.042Z - debug: 5 product seeded
+2018-11-18T04:35:51.045Z - debug: 5 order seeded
+2018-11-18T04:35:51.048Z - debug: 5 customer seeded
+2018-11-18T04:35:51.051Z - debug: 5 Order Line seeded
+2018-11-18T04:35:51.051Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:35:54.570Z - info: Environment variables loaded.
+2018-11-18T04:35:54.627Z - info: START seeder.
+2018-11-18T04:35:54.632Z - debug: 5 product seeded
+2018-11-18T04:35:54.635Z - debug: 5 order seeded
+2018-11-18T04:35:54.638Z - debug: 5 customer seeded
+2018-11-18T04:35:54.642Z - debug: 5 Order Line seeded
+2018-11-18T04:35:54.643Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:35:54.621Z - info: Environment variables loaded.
+2018-11-18T04:35:54.768Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:35:54 GMT-0600 (Central Standard Time), pid=82120, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55459840, heapTotal=38248448, heapUsed=25825928, external=18779507, loadavg=[0, 0, 0], uptime=192190.2308243
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:35:54.684Z - info: START seeder.
+2018-11-18T04:35:54.689Z - debug: 5 product seeded
+2018-11-18T04:35:54.694Z - debug: 5 order seeded
+2018-11-18T04:35:54.697Z - debug: 5 customer seeded
+2018-11-18T04:35:54.700Z - debug: 5 Order Line seeded
+2018-11-18T04:35:54.700Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:37:36.966Z - info: Environment variables loaded.
+2018-11-18T04:37:37.069Z - info: START seeder.
+2018-11-18T04:37:37.076Z - debug: 5 product seeded
+2018-11-18T04:37:37.080Z - debug: 5 order seeded
+2018-11-18T04:37:37.083Z - debug: 5 customer seeded
+2018-11-18T04:37:37.087Z - debug: 5 Order Line seeded
+2018-11-18T04:37:37.087Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:37:37.323Z - info: Environment variables loaded.
+2018-11-18T04:37:37.445Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:37:37 GMT-0600 (Central Standard Time), pid=84344, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54505472, heapTotal=38248448, heapUsed=24219072, external=18672570, loadavg=[0, 0, 0], uptime=192292.9211051
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:37:37.383Z - info: START seeder.
+2018-11-18T04:37:37.387Z - debug: 5 product seeded
+2018-11-18T04:37:37.391Z - debug: 5 order seeded
+2018-11-18T04:37:37.393Z - debug: 5 customer seeded
+2018-11-18T04:37:37.396Z - debug: 5 Order Line seeded
+2018-11-18T04:37:37.396Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:37:40.051Z - info: Environment variables loaded.
+2018-11-18T04:37:40.106Z - info: START seeder.
+2018-11-18T04:37:40.112Z - debug: 5 product seeded
+2018-11-18T04:37:40.115Z - debug: 5 order seeded
+2018-11-18T04:37:40.118Z - debug: 5 customer seeded
+2018-11-18T04:37:40.120Z - debug: 5 Order Line seeded
+2018-11-18T04:37:40.121Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:37:40.353Z - info: Environment variables loaded.
+2018-11-18T04:37:40.516Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:37:40 GMT-0600 (Central Standard Time), pid=82976, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55812096, heapTotal=37724160, heapUsed=26301632, external=18832435, loadavg=[0, 0, 0], uptime=192295.9836507
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:37:40.444Z - info: START seeder.
+2018-11-18T04:37:40.449Z - debug: 5 product seeded
+2018-11-18T04:37:40.451Z - debug: 5 order seeded
+2018-11-18T04:37:40.454Z - debug: 5 customer seeded
+2018-11-18T04:37:40.457Z - debug: 5 Order Line seeded
+2018-11-18T04:37:40.457Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:38:14.859Z - info: Environment variables loaded.
+2018-11-18T04:38:14.959Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:38:14 GMT-0600 (Central Standard Time), pid=68056, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=57487360, heapTotal=38772736, heapUsed=26689536, external=19412557, loadavg=[0, 0, 0], uptime=192330.438121
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:38:14.899Z - info: START seeder.
+2018-11-18T04:38:14.902Z - debug: 5 product seeded
+2018-11-18T04:38:14.905Z - debug: 5 order seeded
+2018-11-18T04:38:14.907Z - debug: 5 customer seeded
+2018-11-18T04:38:14.907Z - debug: 5 Order Line seeded
+2018-11-18T04:38:14.907Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:40:16.839Z - info: Environment variables loaded.
+2018-11-18T04:40:16.968Z - error: uncaughtException: api is not defined date=Sat Nov 17 2018 22:40:16 GMT-0600 (Central Standard Time), pid=83664, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=57024512, heapTotal=38772736, heapUsed=26743144, external=19412557, loadavg=[0, 0, 0], uptime=192452.4328745
+ReferenceError: api is not defined
+    at Server.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:91:70)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Server.emit (events.js:208:7)
+    at emitListeningNT (net.js:1387:10)
+    at _combinedTickCallback (internal/process/next_tick.js:136:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:40:16.895Z - info: START seeder.
+2018-11-18T04:40:16.900Z - debug: 5 product seeded
+2018-11-18T04:40:16.902Z - debug: 5 order seeded
+2018-11-18T04:40:16.905Z - debug: 5 customer seeded
+2018-11-18T04:40:16.909Z - debug: 5 Order Line seeded
+2018-11-18T04:40:16.909Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:40:16.844Z - info: Environment variables loaded.
+2018-11-18T04:40:16.974Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:40:16 GMT-0600 (Central Standard Time), pid=85500, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54734848, heapTotal=38772736, heapUsed=24415208, external=18689666, loadavg=[0, 0, 0], uptime=192452.4438493
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:40:16.903Z - info: START seeder.
+2018-11-18T04:40:16.910Z - debug: 5 product seeded
+2018-11-18T04:40:16.912Z - debug: 5 order seeded
+2018-11-18T04:40:16.914Z - debug: 5 customer seeded
+2018-11-18T04:40:16.918Z - debug: 5 Order Line seeded
+2018-11-18T04:40:16.918Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:40:28.259Z - info: Environment variables loaded.
+2018-11-18T04:40:28.388Z - error: uncaughtException: api is not defined date=Sat Nov 17 2018 22:40:28 GMT-0600 (Central Standard Time), pid=84828, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=56377344, heapTotal=39297024, heapUsed=22874248, external=18486352, loadavg=[0, 0, 0], uptime=192463.8604074
+ReferenceError: api is not defined
+    at Server.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:91:70)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Server.emit (events.js:208:7)
+    at emitListeningNT (net.js:1387:10)
+    at _combinedTickCallback (internal/process/next_tick.js:136:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:40:28.323Z - info: START seeder.
+2018-11-18T04:40:28.329Z - debug: 5 product seeded
+2018-11-18T04:40:28.333Z - debug: 5 order seeded
+2018-11-18T04:40:28.336Z - debug: 5 customer seeded
+2018-11-18T04:40:28.338Z - debug: 5 Order Line seeded
+2018-11-18T04:40:28.338Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:40:28.259Z - info: Environment variables loaded.
+2018-11-18T04:40:28.393Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:40:28 GMT-0600 (Central Standard Time), pid=82888, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54198272, heapTotal=38772736, heapUsed=24709360, external=18699494, loadavg=[0, 0, 0], uptime=192463.8654583
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:40:28.329Z - info: START seeder.
+2018-11-18T04:40:28.335Z - debug: 5 product seeded
+2018-11-18T04:40:28.338Z - debug: 5 order seeded
+2018-11-18T04:40:28.340Z - debug: 5 customer seeded
+2018-11-18T04:40:28.344Z - debug: 5 Order Line seeded
+2018-11-18T04:40:28.344Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:40:57.822Z - info: Environment variables loaded.
+2018-11-18T04:40:57.927Z - info: START seeder.
+2018-11-18T04:40:57.938Z - debug: 5 product seeded
+2018-11-18T04:40:57.943Z - debug: 5 order seeded
+2018-11-18T04:40:57.946Z - debug: 5 customer seeded
+2018-11-18T04:40:57.949Z - debug: 5 Order Line seeded
+2018-11-18T04:40:57.949Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:40:58.138Z - info: Environment variables loaded.
+2018-11-18T04:40:58.302Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:40:58 GMT-0600 (Central Standard Time), pid=85096, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54734848, heapTotal=38248448, heapUsed=24061776, external=18652317, loadavg=[0, 0, 0], uptime=192493.7703935
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:40:58.216Z - info: START seeder.
+2018-11-18T04:40:58.223Z - debug: 5 product seeded
+2018-11-18T04:40:58.226Z - debug: 5 order seeded
+2018-11-18T04:40:58.229Z - debug: 5 customer seeded
+2018-11-18T04:40:58.232Z - debug: 5 Order Line seeded
+2018-11-18T04:40:58.232Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:41:01.216Z - info: Environment variables loaded.
+2018-11-18T04:41:01.264Z - info: START seeder.
+2018-11-18T04:41:01.275Z - debug: 5 product seeded
+2018-11-18T04:41:01.280Z - debug: 5 order seeded
+2018-11-18T04:41:01.282Z - debug: 5 customer seeded
+2018-11-18T04:41:01.287Z - debug: 5 Order Line seeded
+2018-11-18T04:41:01.287Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:41:01.440Z - info: Environment variables loaded.
+2018-11-18T04:41:01.558Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:41:01 GMT-0600 (Central Standard Time), pid=85432, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54734848, heapTotal=39297024, heapUsed=24253952, external=18672570, loadavg=[0, 0, 0], uptime=192497.0323648
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:41:01.492Z - info: START seeder.
+2018-11-18T04:41:01.497Z - debug: 5 product seeded
+2018-11-18T04:41:01.502Z - debug: 5 order seeded
+2018-11-18T04:41:01.506Z - debug: 5 customer seeded
+2018-11-18T04:41:01.511Z - debug: 5 Order Line seeded
+2018-11-18T04:41:01.512Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:41:05.989Z - info: Environment variables loaded.
+2018-11-18T04:41:06.052Z - info: START seeder.
+2018-11-18T04:41:06.059Z - debug: 5 product seeded
+2018-11-18T04:41:06.063Z - debug: 5 order seeded
+2018-11-18T04:41:06.068Z - debug: 5 customer seeded
+2018-11-18T04:41:06.071Z - debug: 5 Order Line seeded
+2018-11-18T04:41:06.072Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:41:06.259Z - info: Environment variables loaded.
+2018-11-18T04:41:06.389Z - error: uncaughtException: listen EADDRINUSE :::8081 date=Sat Nov 17 2018 22:41:06 GMT-0600 (Central Standard Time), pid=85180, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=57106432, heapTotal=38772736, heapUsed=22464856, external=18371305, loadavg=[0, 0, 0], uptime=192501.8698398
+Error: listen EADDRINUSE :::8081
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:41:06.340Z - info: START seeder.
+2018-11-18T04:41:06.346Z - debug: 5 product seeded
+2018-11-18T04:41:06.348Z - debug: 5 order seeded
+2018-11-18T04:41:06.350Z - debug: 5 customer seeded
+2018-11-18T04:41:06.352Z - debug: 5 Order Line seeded
+2018-11-18T04:41:06.353Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:41:42.636Z - info: Environment variables loaded.
+2018-11-18T04:41:42.691Z - info: START seeder.
+2018-11-18T04:41:42.698Z - debug: 5 product seeded
+2018-11-18T04:41:42.700Z - debug: 5 order seeded
+2018-11-18T04:41:42.703Z - debug: 5 customer seeded
+2018-11-18T04:41:42.705Z - debug: 5 Order Line seeded
+2018-11-18T04:41:42.705Z - info: END Seeder. Sample data read and verified.
+2018-11-18T04:41:42.646Z - info: Environment variables loaded.
+2018-11-18T04:41:42.765Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sat Nov 17 2018 22:41:42 GMT-0600 (Central Standard Time), pid=81824, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=56537088, heapTotal=39821312, heapUsed=22737056, external=18417136, loadavg=[0, 0, 0], uptime=192538.2385156
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T04:41:42.702Z - info: START seeder.
+2018-11-18T04:41:42.706Z - debug: 5 product seeded
+2018-11-18T04:41:42.709Z - debug: 5 order seeded
+2018-11-18T04:41:42.711Z - debug: 5 customer seeded
+2018-11-18T04:41:42.715Z - debug: 5 Order Line seeded
+2018-11-18T04:41:42.715Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:47:13.328Z - info: Environment variables loaded.
+2018-11-18T06:47:13.406Z - info: START seeder.
+2018-11-18T06:47:13.414Z - debug: 5 product seeded
+2018-11-18T06:47:13.418Z - debug: 5 order seeded
+2018-11-18T06:47:13.423Z - debug: 5 customer seeded
+2018-11-18T06:47:13.427Z - debug: 5 Order Line seeded
+2018-11-18T06:47:13.427Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:47:13.688Z - info: Environment variables loaded.
+2018-11-18T06:47:13.789Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 00:47:13 GMT-0600 (Central Standard Time), pid=88820, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55734272, heapTotal=39297024, heapUsed=23182584, external=18510856, loadavg=[0, 0, 0], uptime=200069.2630478
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T06:47:13.733Z - info: START seeder.
+2018-11-18T06:47:13.736Z - debug: 5 product seeded
+2018-11-18T06:47:13.738Z - debug: 5 order seeded
+2018-11-18T06:47:13.740Z - debug: 5 customer seeded
+2018-11-18T06:47:13.741Z - debug: 5 Order Line seeded
+2018-11-18T06:47:13.742Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:47:18.894Z - info: Environment variables loaded.
+2018-11-18T06:47:18.969Z - info: START seeder.
+2018-11-18T06:47:18.976Z - debug: 5 product seeded
+2018-11-18T06:47:18.979Z - debug: 5 order seeded
+2018-11-18T06:47:18.983Z - debug: 5 customer seeded
+2018-11-18T06:47:18.986Z - debug: 5 Order Line seeded
+2018-11-18T06:47:18.986Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:47:18.989Z - info: Environment variables loaded.
+2018-11-18T06:47:19.150Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 00:47:19 GMT-0600 (Central Standard Time), pid=85256, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54325248, heapTotal=38248448, heapUsed=24223896, external=18672570, loadavg=[0, 0, 0], uptime=200074.6197075
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T06:47:19.070Z - info: START seeder.
+2018-11-18T06:47:19.078Z - debug: 5 product seeded
+2018-11-18T06:47:19.083Z - debug: 5 order seeded
+2018-11-18T06:47:19.089Z - debug: 5 customer seeded
+2018-11-18T06:47:19.094Z - debug: 5 Order Line seeded
+2018-11-18T06:47:19.095Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:52:28.104Z - info: Environment variables loaded.
+2018-11-18T06:52:28.165Z - info: START seeder.
+2018-11-18T06:52:28.173Z - debug: 5 product seeded
+2018-11-18T06:52:28.177Z - debug: 5 order seeded
+2018-11-18T06:52:28.181Z - debug: 5 customer seeded
+2018-11-18T06:52:28.184Z - debug: 5 Order Line seeded
+2018-11-18T06:52:28.184Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:52:28.150Z - info: Environment variables loaded.
+2018-11-18T06:52:28.280Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 00:52:28 GMT-0600 (Central Standard Time), pid=80768, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54419456, heapTotal=38248448, heapUsed=24296888, external=18672570, loadavg=[0, 0, 0], uptime=200383.7489544
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T06:52:28.211Z - info: START seeder.
+2018-11-18T06:52:28.220Z - debug: 5 product seeded
+2018-11-18T06:52:28.222Z - debug: 5 order seeded
+2018-11-18T06:52:28.223Z - debug: 5 customer seeded
+2018-11-18T06:52:28.225Z - debug: 5 Order Line seeded
+2018-11-18T06:52:28.225Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:52:46.213Z - info: Environment variables loaded.
+2018-11-18T06:52:46.266Z - info: START seeder.
+2018-11-18T06:52:46.271Z - debug: 5 product seeded
+2018-11-18T06:52:46.279Z - debug: 5 order seeded
+2018-11-18T06:52:46.283Z - debug: 5 customer seeded
+2018-11-18T06:52:46.287Z - debug: 5 Order Line seeded
+2018-11-18T06:52:46.287Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:52:46.255Z - info: Environment variables loaded.
+2018-11-18T06:52:46.401Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 00:52:46 GMT-0600 (Central Standard Time), pid=88636, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54759424, heapTotal=38772736, heapUsed=24218976, external=18664893, loadavg=[0, 0, 0], uptime=200401.8673708
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T06:52:46.327Z - info: START seeder.
+2018-11-18T06:52:46.336Z - debug: 5 product seeded
+2018-11-18T06:52:46.340Z - debug: 5 order seeded
+2018-11-18T06:52:46.342Z - debug: 5 customer seeded
+2018-11-18T06:52:46.344Z - debug: 5 Order Line seeded
+2018-11-18T06:52:46.345Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:52:55.334Z - info: Environment variables loaded.
+2018-11-18T06:52:55.396Z - info: START seeder.
+2018-11-18T06:52:55.402Z - debug: 5 product seeded
+2018-11-18T06:52:55.407Z - debug: 5 order seeded
+2018-11-18T06:52:55.411Z - debug: 5 customer seeded
+2018-11-18T06:52:55.415Z - debug: 5 Order Line seeded
+2018-11-18T06:52:55.416Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:52:55.680Z - info: Environment variables loaded.
+2018-11-18T06:52:55.847Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 00:52:55 GMT-0600 (Central Standard Time), pid=90040, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55005184, heapTotal=38248448, heapUsed=25445104, external=18751597, loadavg=[0, 0, 0], uptime=200411.3120568
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T06:52:55.765Z - info: START seeder.
+2018-11-18T06:52:55.771Z - debug: 5 product seeded
+2018-11-18T06:52:55.774Z - debug: 5 order seeded
+2018-11-18T06:52:55.777Z - debug: 5 customer seeded
+2018-11-18T06:52:55.781Z - debug: 5 Order Line seeded
+2018-11-18T06:52:55.781Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:53:03.767Z - info: Environment variables loaded.
+2018-11-18T06:53:03.838Z - info: START seeder.
+2018-11-18T06:53:03.842Z - debug: 5 product seeded
+2018-11-18T06:53:03.845Z - debug: 5 order seeded
+2018-11-18T06:53:03.849Z - debug: 5 customer seeded
+2018-11-18T06:53:03.853Z - debug: 5 Order Line seeded
+2018-11-18T06:53:03.853Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:53:03.862Z - info: Environment variables loaded.
+2018-11-18T06:53:04.000Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 00:53:03 GMT-0600 (Central Standard Time), pid=89128, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54341632, heapTotal=38772736, heapUsed=24431320, external=18695301, loadavg=[0, 0, 0], uptime=200419.4591803
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T06:53:03.915Z - info: START seeder.
+2018-11-18T06:53:03.920Z - debug: 5 product seeded
+2018-11-18T06:53:03.922Z - debug: 5 order seeded
+2018-11-18T06:53:03.924Z - debug: 5 customer seeded
+2018-11-18T06:53:03.926Z - debug: 5 Order Line seeded
+2018-11-18T06:53:03.927Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:53:14.939Z - info: Environment variables loaded.
+2018-11-18T06:53:15.011Z - info: START seeder.
+2018-11-18T06:53:15.016Z - debug: 5 product seeded
+2018-11-18T06:53:15.020Z - debug: 5 order seeded
+2018-11-18T06:53:15.023Z - debug: 5 customer seeded
+2018-11-18T06:53:15.029Z - debug: 5 Order Line seeded
+2018-11-18T06:53:15.029Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:53:15.360Z - info: Environment variables loaded.
+2018-11-18T06:53:15.530Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 00:53:15 GMT-0600 (Central Standard Time), pid=89272, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55857152, heapTotal=39821312, heapUsed=23037680, external=18519048, loadavg=[0, 0, 0], uptime=200430.9965032
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T06:53:15.440Z - info: START seeder.
+2018-11-18T06:53:15.446Z - debug: 5 product seeded
+2018-11-18T06:53:15.452Z - debug: 5 order seeded
+2018-11-18T06:53:15.456Z - debug: 5 customer seeded
+2018-11-18T06:53:15.461Z - debug: 5 Order Line seeded
+2018-11-18T06:53:15.461Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:54:09.649Z - info: Environment variables loaded.
+2018-11-18T06:54:09.717Z - info: START seeder.
+2018-11-18T06:54:09.727Z - debug: 5 product seeded
+2018-11-18T06:54:09.735Z - debug: 5 order seeded
+2018-11-18T06:54:09.738Z - debug: 5 customer seeded
+2018-11-18T06:54:09.742Z - debug: 5 Order Line seeded
+2018-11-18T06:54:09.742Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:54:10.041Z - info: Environment variables loaded.
+2018-11-18T06:54:10.191Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 00:54:10 GMT-0600 (Central Standard Time), pid=90816, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=57344000, heapTotal=39297024, heapUsed=23003880, external=18478160, loadavg=[0, 0, 0], uptime=200485.6544726
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T06:54:10.115Z - info: START seeder.
+2018-11-18T06:54:10.122Z - debug: 5 product seeded
+2018-11-18T06:54:10.124Z - debug: 5 order seeded
+2018-11-18T06:54:10.126Z - debug: 5 customer seeded
+2018-11-18T06:54:10.127Z - debug: 5 Order Line seeded
+2018-11-18T06:54:10.128Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:54:30.634Z - info: Environment variables loaded.
+2018-11-18T06:54:30.685Z - info: START seeder.
+2018-11-18T06:54:30.689Z - debug: 5 product seeded
+2018-11-18T06:54:30.691Z - debug: 5 order seeded
+2018-11-18T06:54:30.695Z - debug: 5 customer seeded
+2018-11-18T06:54:30.698Z - debug: 5 Order Line seeded
+2018-11-18T06:54:30.698Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:54:30.869Z - info: Environment variables loaded.
+2018-11-18T06:54:31.015Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 00:54:30 GMT-0600 (Central Standard Time), pid=90812, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54599680, heapTotal=38772736, heapUsed=24967600, external=18704608, loadavg=[0, 0, 0], uptime=200506.4807522
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T06:54:30.945Z - info: START seeder.
+2018-11-18T06:54:30.950Z - debug: 5 product seeded
+2018-11-18T06:54:30.953Z - debug: 5 order seeded
+2018-11-18T06:54:30.956Z - debug: 5 customer seeded
+2018-11-18T06:54:30.958Z - debug: 5 Order Line seeded
+2018-11-18T06:54:30.958Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:55:01.172Z - info: Environment variables loaded.
+2018-11-18T06:55:01.229Z - info: START seeder.
+2018-11-18T06:55:01.234Z - debug: 5 product seeded
+2018-11-18T06:55:01.238Z - debug: 5 order seeded
+2018-11-18T06:55:01.241Z - debug: 5 customer seeded
+2018-11-18T06:55:01.244Z - debug: 5 Order Line seeded
+2018-11-18T06:55:01.244Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:55:01.207Z - info: Environment variables loaded.
+2018-11-18T06:55:01.328Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 00:55:01 GMT-0600 (Central Standard Time), pid=90920, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54595584, heapTotal=38772736, heapUsed=24002920, external=18632287, loadavg=[0, 0, 0], uptime=200536.800805
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T06:55:01.261Z - info: START seeder.
+2018-11-18T06:55:01.266Z - debug: 5 product seeded
+2018-11-18T06:55:01.269Z - debug: 5 order seeded
+2018-11-18T06:55:01.273Z - debug: 5 customer seeded
+2018-11-18T06:55:01.276Z - debug: 5 Order Line seeded
+2018-11-18T06:55:01.276Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:55:21.100Z - info: Environment variables loaded.
+2018-11-18T06:55:21.191Z - info: START seeder.
+2018-11-18T06:55:21.196Z - debug: 5 product seeded
+2018-11-18T06:55:21.198Z - debug: 5 order seeded
+2018-11-18T06:55:21.204Z - debug: 5 customer seeded
+2018-11-18T06:55:21.207Z - debug: 5 Order Line seeded
+2018-11-18T06:55:21.207Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:55:21.197Z - info: Environment variables loaded.
+2018-11-18T06:55:21.357Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 00:55:21 GMT-0600 (Central Standard Time), pid=90828, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55287808, heapTotal=38248448, heapUsed=23324352, external=18582228, loadavg=[0, 0, 0], uptime=200556.8293166
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T06:55:21.274Z - info: START seeder.
+2018-11-18T06:55:21.281Z - debug: 5 product seeded
+2018-11-18T06:55:21.286Z - debug: 5 order seeded
+2018-11-18T06:55:21.289Z - debug: 5 customer seeded
+2018-11-18T06:55:21.294Z - debug: 5 Order Line seeded
+2018-11-18T06:55:21.295Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:55:36.417Z - info: Environment variables loaded.
+2018-11-18T06:55:36.477Z - info: START seeder.
+2018-11-18T06:55:36.485Z - debug: 5 product seeded
+2018-11-18T06:55:36.487Z - debug: 5 order seeded
+2018-11-18T06:55:36.490Z - debug: 5 customer seeded
+2018-11-18T06:55:36.492Z - debug: 5 Order Line seeded
+2018-11-18T06:55:36.492Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:55:36.641Z - info: Environment variables loaded.
+2018-11-18T06:55:36.825Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 00:55:36 GMT-0600 (Central Standard Time), pid=90504, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54624256, heapTotal=38772736, heapUsed=24587640, external=18699494, loadavg=[0, 0, 0], uptime=200572.2988112
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T06:55:36.758Z - info: START seeder.
+2018-11-18T06:55:36.763Z - debug: 5 product seeded
+2018-11-18T06:55:36.766Z - debug: 5 order seeded
+2018-11-18T06:55:36.771Z - debug: 5 customer seeded
+2018-11-18T06:55:36.773Z - debug: 5 Order Line seeded
+2018-11-18T06:55:36.773Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:55:39.407Z - info: Environment variables loaded.
+2018-11-18T06:55:39.509Z - info: START seeder.
+2018-11-18T06:55:39.521Z - debug: 5 product seeded
+2018-11-18T06:55:39.528Z - debug: 5 order seeded
+2018-11-18T06:55:39.533Z - debug: 5 customer seeded
+2018-11-18T06:55:39.539Z - debug: 5 Order Line seeded
+2018-11-18T06:55:39.540Z - info: END Seeder. Sample data read and verified.
+2018-11-18T06:55:39.841Z - info: Environment variables loaded.
+2018-11-18T06:55:40.006Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 00:55:39 GMT-0600 (Central Standard Time), pid=47656, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54267904, heapTotal=38248448, heapUsed=24438032, external=18689666, loadavg=[0, 0, 0], uptime=200575.4752637
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T06:55:39.933Z - info: START seeder.
+2018-11-18T06:55:39.939Z - debug: 5 product seeded
+2018-11-18T06:55:39.942Z - debug: 5 order seeded
+2018-11-18T06:55:39.945Z - debug: 5 customer seeded
+2018-11-18T06:55:39.947Z - debug: 5 Order Line seeded
+2018-11-18T06:55:39.948Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:30:20.216Z - info: Environment variables loaded.
+2018-11-18T07:30:20.313Z - error: uncaughtException: Cannot find module '../data/customers.json' date=Sun Nov 18 2018 01:30:20 GMT-0600 (Central Standard Time), pid=92232, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54689792, heapTotal=37199872, heapUsed=25623232, external=18797155, loadavg=[0, 0, 0], uptime=202655.7868054
+Error: Cannot find module '../data/customers.json'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\utils\seeder.js:8:19)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+2018-11-18T07:30:20.244Z - info: Environment variables loaded.
+2018-11-18T07:30:20.350Z - error: uncaughtException: Cannot find module '../data/customers.json' date=Sun Nov 18 2018 01:30:20 GMT-0600 (Central Standard Time), pid=92372, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=57028608, heapTotal=39297024, heapUsed=21559688, external=18308132, loadavg=[0, 0, 0], uptime=202655.8057506
+Error: Cannot find module '../data/customers.json'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\utils\seeder.js:8:19)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+2018-11-18T07:30:34.896Z - info: Environment variables loaded.
+2018-11-18T07:30:35.002Z - error: uncaughtException: Cannot find module '../data/products.json' date=Sun Nov 18 2018 01:30:34 GMT-0600 (Central Standard Time), pid=92232, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54181888, heapTotal=38248448, heapUsed=23359448, external=18629613, loadavg=[0, 0, 0], uptime=202670.4682248
+Error: Cannot find module '../data/products.json'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\utils\seeder.js:9:18)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+2018-11-18T07:30:34.895Z - info: Environment variables loaded.
+2018-11-18T07:30:35.002Z - error: uncaughtException: Cannot find module '../data/products.json' date=Sun Nov 18 2018 01:30:34 GMT-0600 (Central Standard Time), pid=92780, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54038528, heapTotal=38248448, heapUsed=24557728, external=18716317, loadavg=[0, 0, 0], uptime=202670.4672273
+Error: Cannot find module '../data/products.json'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\utils\seeder.js:9:18)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+2018-11-18T07:30:39.464Z - info: Environment variables loaded.
+2018-11-18T07:30:39.559Z - error: uncaughtException: Cannot find module '../data/orders.json' date=Sun Nov 18 2018 01:30:39 GMT-0600 (Central Standard Time), pid=92180, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55144448, heapTotal=39297024, heapUsed=22552408, external=18546948, loadavg=[0, 0, 0], uptime=202675.0310912
+Error: Cannot find module '../data/orders.json'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\utils\seeder.js:10:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+2018-11-18T07:30:39.522Z - info: Environment variables loaded.
+2018-11-18T07:30:39.620Z - error: uncaughtException: Cannot find module '../data/orders.json' date=Sun Nov 18 2018 01:30:39 GMT-0600 (Central Standard Time), pid=92324, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55431168, heapTotal=39297024, heapUsed=22360464, external=18502702, loadavg=[0, 0, 0], uptime=202675.0859417
+Error: Cannot find module '../data/orders.json'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\utils\seeder.js:10:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+2018-11-18T07:30:43.228Z - info: Environment variables loaded.
+2018-11-18T07:30:43.362Z - error: uncaughtException: Cannot find module '../data/orderLineItems.json' date=Sun Nov 18 2018 01:30:43 GMT-0600 (Central Standard Time), pid=92316, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54681600, heapTotal=39297024, heapUsed=23162688, external=18592259, loadavg=[0, 0, 0], uptime=202678.8133305
+Error: Cannot find module '../data/orderLineItems.json'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\utils\seeder.js:11:24)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+2018-11-18T07:30:43.236Z - info: Environment variables loaded.
+2018-11-18T07:30:43.373Z - error: uncaughtException: Cannot find module '../data/orderLineItems.json' date=Sun Nov 18 2018 01:30:43 GMT-0600 (Central Standard Time), pid=92388, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54718464, heapTotal=39297024, heapUsed=23238432, external=18603011, loadavg=[0, 0, 0], uptime=202678.8372662
+Error: Cannot find module '../data/orderLineItems.json'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\utils\seeder.js:11:24)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:87:1)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+2018-11-18T07:30:46.816Z - info: Environment variables loaded.
+2018-11-18T07:30:46.876Z - info: START seeder.
+2018-11-18T07:30:46.882Z - debug: 5 customers seeded
+2018-11-18T07:30:46.884Z - debug: 5 products seeded
+2018-11-18T07:30:46.887Z - debug: 5 orders seeded
+2018-11-18T07:30:46.890Z - debug: 5 orderLineItems seeded
+2018-11-18T07:30:46.890Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:30:46.817Z - info: Environment variables loaded.
+2018-11-18T07:30:46.956Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 01:30:46 GMT-0600 (Central Standard Time), pid=86648, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=57094144, heapTotal=39297024, heapUsed=23006304, external=18502664, loadavg=[0, 0, 0], uptime=202682.4244522
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T07:30:46.882Z - info: START seeder.
+2018-11-18T07:30:46.888Z - debug: 5 customers seeded
+2018-11-18T07:30:46.891Z - debug: 5 products seeded
+2018-11-18T07:30:46.898Z - debug: 5 orders seeded
+2018-11-18T07:30:46.901Z - debug: 5 orderLineItems seeded
+2018-11-18T07:30:46.902Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:30:55.500Z - info: Environment variables loaded.
+2018-11-18T07:30:55.564Z - info: START seeder.
+2018-11-18T07:30:55.571Z - debug: 5 customers seeded
+2018-11-18T07:30:55.575Z - debug: 5 products seeded
+2018-11-18T07:30:55.578Z - debug: 5 orders seeded
+2018-11-18T07:30:55.581Z - debug: 5 orderLineItems seeded
+2018-11-18T07:30:55.581Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:30:55.801Z - info: Environment variables loaded.
+2018-11-18T07:30:55.944Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 01:30:55 GMT-0600 (Central Standard Time), pid=91372, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55316480, heapTotal=38772736, heapUsed=23307088, external=18542118, loadavg=[0, 0, 0], uptime=202691.4119803
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T07:30:55.867Z - info: START seeder.
+2018-11-18T07:30:55.875Z - debug: 5 customers seeded
+2018-11-18T07:30:55.878Z - debug: 5 products seeded
+2018-11-18T07:30:55.883Z - debug: 5 orders seeded
+2018-11-18T07:30:55.888Z - debug: 5 orderLineItems seeded
+2018-11-18T07:30:55.888Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:32:26.767Z - info: Environment variables loaded.
+2018-11-18T07:32:26.881Z - info: START seeder.
+2018-11-18T07:32:26.893Z - debug: 5 customers seeded
+2018-11-18T07:32:26.899Z - debug: 5 products seeded
+2018-11-18T07:32:26.904Z - debug: 5 orders seeded
+2018-11-18T07:32:26.909Z - debug: 5 orderLineItems seeded
+2018-11-18T07:32:26.915Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:32:27.137Z - info: Environment variables loaded.
+2018-11-18T07:32:27.313Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 01:32:27 GMT-0600 (Central Standard Time), pid=39340, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=57352192, heapTotal=39297024, heapUsed=22611088, external=18379497, loadavg=[0, 0, 0], uptime=202782.7810492
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T07:32:27.233Z - info: START seeder.
+2018-11-18T07:32:27.238Z - debug: 5 customers seeded
+2018-11-18T07:32:27.241Z - debug: 5 products seeded
+2018-11-18T07:32:27.244Z - debug: 5 orders seeded
+2018-11-18T07:32:27.248Z - debug: 5 orderLineItems seeded
+2018-11-18T07:32:27.248Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:32:41.174Z - info: Environment variables loaded.
+2018-11-18T07:32:41.219Z - info: START seeder.
+2018-11-18T07:32:41.224Z - debug: 5 customers seeded
+2018-11-18T07:32:41.227Z - debug: 5 products seeded
+2018-11-18T07:32:41.230Z - debug: 5 orders seeded
+2018-11-18T07:32:41.231Z - debug: 5 orderLineItems seeded
+2018-11-18T07:32:41.232Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:32:41.227Z - info: Environment variables loaded.
+2018-11-18T07:32:41.368Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 01:32:41 GMT-0600 (Central Standard Time), pid=90392, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55574528, heapTotal=38248448, heapUsed=26036048, external=18779507, loadavg=[0, 0, 0], uptime=202796.8167692
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T07:32:41.275Z - info: START seeder.
+2018-11-18T07:32:41.281Z - debug: 5 customers seeded
+2018-11-18T07:32:41.283Z - debug: 5 products seeded
+2018-11-18T07:32:41.285Z - debug: 5 orders seeded
+2018-11-18T07:32:41.287Z - debug: 5 orderLineItems seeded
+2018-11-18T07:32:41.288Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:32:45.678Z - info: Environment variables loaded.
+2018-11-18T07:32:45.744Z - info: START seeder.
+2018-11-18T07:32:45.755Z - debug: 5 customers seeded
+2018-11-18T07:32:45.758Z - debug: 5 products seeded
+2018-11-18T07:32:45.767Z - debug: 5 orders seeded
+2018-11-18T07:32:45.773Z - debug: 5 orderLineItems seeded
+2018-11-18T07:32:45.773Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:32:45.726Z - info: Environment variables loaded.
+2018-11-18T07:32:45.927Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 01:32:45 GMT-0600 (Central Standard Time), pid=92824, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54521856, heapTotal=38248448, heapUsed=24024224, external=18632287, loadavg=[0, 0, 0], uptime=202801.3946391
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T07:32:45.849Z - info: START seeder.
+2018-11-18T07:32:45.856Z - debug: 5 customers seeded
+2018-11-18T07:32:45.861Z - debug: 5 products seeded
+2018-11-18T07:32:45.865Z - debug: 5 orders seeded
+2018-11-18T07:32:45.867Z - debug: 5 orderLineItems seeded
+2018-11-18T07:32:45.868Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:33:13.795Z - info: Environment variables loaded.
+2018-11-18T07:33:13.840Z - info: START seeder.
+2018-11-18T07:33:13.843Z - debug: 5 customers seeded
+2018-11-18T07:33:13.845Z - debug: 5 products seeded
+2018-11-18T07:33:13.847Z - debug: 5 orders seeded
+2018-11-18T07:33:13.849Z - debug: 5 orderLineItems seeded
+2018-11-18T07:33:13.849Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:34:01.421Z - info: Environment variables loaded.
+2018-11-18T07:34:01.472Z - info: START seeder.
+2018-11-18T07:34:01.475Z - debug: 5 customers seeded
+2018-11-18T07:34:01.477Z - debug: 5 products seeded
+2018-11-18T07:34:01.479Z - debug: 5 orders seeded
+2018-11-18T07:34:01.480Z - debug: 5 orderLineItems seeded
+2018-11-18T07:34:01.481Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:34:57.906Z - info: Environment variables loaded.
+2018-11-18T07:34:57.953Z - info: START seeder.
+2018-11-18T07:34:57.962Z - debug: 5 customers seeded
+2018-11-18T07:34:57.966Z - debug: 5 products seeded
+2018-11-18T07:34:57.971Z - debug: 5 orders seeded
+2018-11-18T07:34:57.976Z - debug: 5 orderLineItems seeded
+2018-11-18T07:34:57.976Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:35:01.784Z - info: Environment variables loaded.
+2018-11-18T07:35:01.845Z - info: START seeder.
+2018-11-18T07:35:01.850Z - debug: 5 customers seeded
+2018-11-18T07:35:01.852Z - debug: 5 products seeded
+2018-11-18T07:35:01.854Z - debug: 5 orders seeded
+2018-11-18T07:35:01.856Z - debug: 5 orderLineItems seeded
+2018-11-18T07:35:01.856Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:35:10.170Z - info: Environment variables loaded.
+2018-11-18T07:35:10.221Z - info: START seeder.
+2018-11-18T07:35:10.225Z - debug: 5 customers seeded
+2018-11-18T07:35:10.229Z - debug: 5 products seeded
+2018-11-18T07:35:10.233Z - debug: 5 orders seeded
+2018-11-18T07:35:10.235Z - debug: 5 orderLineItems seeded
+2018-11-18T07:35:10.236Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:37:17.203Z - info: Environment variables loaded.
+2018-11-18T07:37:17.258Z - info: START seeder.
+2018-11-18T07:37:17.262Z - debug: 5 customers seeded
+2018-11-18T07:37:17.264Z - debug: 5 products seeded
+2018-11-18T07:37:17.266Z - debug: 5 orders seeded
+2018-11-18T07:37:17.268Z - debug: 5 orderLineItems seeded
+2018-11-18T07:37:17.268Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:37:56.398Z - info: Environment variables loaded.
+2018-11-18T07:37:56.439Z - info: START seeder.
+2018-11-18T07:37:56.443Z - debug: 5 customers seeded
+2018-11-18T07:37:56.445Z - debug: 5 products seeded
+2018-11-18T07:37:56.449Z - debug: 5 orders seeded
+2018-11-18T07:37:56.451Z - debug: 5 orderLineItems seeded
+2018-11-18T07:37:56.451Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:37:59.788Z - info: Environment variables loaded.
+2018-11-18T07:37:59.837Z - info: START seeder.
+2018-11-18T07:37:59.841Z - debug: 5 customers seeded
+2018-11-18T07:37:59.843Z - debug: 5 products seeded
+2018-11-18T07:37:59.846Z - debug: 5 orders seeded
+2018-11-18T07:37:59.848Z - debug: 5 orderLineItems seeded
+2018-11-18T07:37:59.849Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:38:03.446Z - info: Environment variables loaded.
+2018-11-18T07:38:03.501Z - info: START seeder.
+2018-11-18T07:38:03.507Z - debug: 5 customers seeded
+2018-11-18T07:38:03.509Z - debug: 5 products seeded
+2018-11-18T07:38:03.511Z - debug: 5 orders seeded
+2018-11-18T07:38:03.513Z - debug: 5 orderLineItems seeded
+2018-11-18T07:38:03.513Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:38:06.731Z - info: Environment variables loaded.
+2018-11-18T07:38:06.783Z - info: START seeder.
+2018-11-18T07:38:06.789Z - debug: 5 customers seeded
+2018-11-18T07:38:06.792Z - debug: 5 products seeded
+2018-11-18T07:38:06.797Z - debug: 5 orders seeded
+2018-11-18T07:38:06.800Z - debug: 5 orderLineItems seeded
+2018-11-18T07:38:06.801Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:38:09.946Z - info: Environment variables loaded.
+2018-11-18T07:38:09.993Z - info: START seeder.
+2018-11-18T07:38:09.999Z - debug: 5 customers seeded
+2018-11-18T07:38:10.004Z - debug: 5 products seeded
+2018-11-18T07:38:10.009Z - debug: 5 orders seeded
+2018-11-18T07:38:10.011Z - debug: 5 orderLineItems seeded
+2018-11-18T07:38:10.011Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:38:26.737Z - info: Environment variables loaded.
+2018-11-18T07:38:26.777Z - info: START seeder.
+2018-11-18T07:38:26.782Z - debug: 5 customers seeded
+2018-11-18T07:38:26.786Z - debug: 5 products seeded
+2018-11-18T07:38:26.789Z - debug: 5 orders seeded
+2018-11-18T07:38:26.793Z - debug: 5 orderLineItems seeded
+2018-11-18T07:38:26.801Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:38:37.813Z - info: Environment variables loaded.
+2018-11-18T07:38:37.877Z - info: START seeder.
+2018-11-18T07:38:37.886Z - debug: 5 customers seeded
+2018-11-18T07:38:37.891Z - debug: 5 products seeded
+2018-11-18T07:38:37.896Z - debug: 5 orders seeded
+2018-11-18T07:38:37.900Z - debug: 5 orderLineItems seeded
+2018-11-18T07:38:37.910Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:39:19.233Z - info: Environment variables loaded.
+2018-11-18T07:39:19.323Z - info: START seeder.
+2018-11-18T07:39:19.338Z - debug: 5 customers seeded
+2018-11-18T07:39:19.353Z - debug: 5 products seeded
+2018-11-18T07:39:19.358Z - debug: 5 orders seeded
+2018-11-18T07:39:19.365Z - debug: 5 orderLineItems seeded
+2018-11-18T07:39:19.374Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:39:21.139Z - info: Environment variables loaded.
+2018-11-18T07:39:21.182Z - info: START seeder.
+2018-11-18T07:39:21.187Z - debug: 5 customers seeded
+2018-11-18T07:39:21.189Z - debug: 5 products seeded
+2018-11-18T07:39:21.191Z - debug: 5 orders seeded
+2018-11-18T07:39:21.193Z - debug: 5 orderLineItems seeded
+2018-11-18T07:39:21.194Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:39:23.752Z - info: Environment variables loaded.
+2018-11-18T07:39:23.806Z - info: START seeder.
+2018-11-18T07:39:23.810Z - debug: 5 customers seeded
+2018-11-18T07:39:23.812Z - debug: 5 products seeded
+2018-11-18T07:39:23.814Z - debug: 5 orders seeded
+2018-11-18T07:39:23.819Z - debug: 5 orderLineItems seeded
+2018-11-18T07:39:23.819Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:39:27.534Z - info: Environment variables loaded.
+2018-11-18T07:39:27.584Z - info: START seeder.
+2018-11-18T07:39:27.591Z - debug: 5 customers seeded
+2018-11-18T07:39:27.594Z - debug: 5 products seeded
+2018-11-18T07:39:27.597Z - debug: 5 orders seeded
+2018-11-18T07:39:27.599Z - debug: 5 orderLineItems seeded
+2018-11-18T07:39:27.600Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:40:25.534Z - info: Environment variables loaded.
+2018-11-18T07:40:25.636Z - info: START seeder.
+2018-11-18T07:40:25.649Z - debug: 5 customers seeded
+2018-11-18T07:40:25.655Z - debug: 5 products seeded
+2018-11-18T07:40:25.666Z - debug: 5 orders seeded
+2018-11-18T07:40:25.685Z - debug: 5 orderLineItems seeded
+2018-11-18T07:40:25.686Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:42:06.257Z - info: Environment variables loaded.
+2018-11-18T07:42:06.303Z - info: START seeder.
+2018-11-18T07:42:06.307Z - debug: 5 customers seeded
+2018-11-18T07:42:06.308Z - debug: 5 products seeded
+2018-11-18T07:42:06.310Z - debug: 5 orders seeded
+2018-11-18T07:42:06.312Z - debug: 5 orderLineItems seeded
+2018-11-18T07:42:06.312Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:47:02.536Z - info: Environment variables loaded.
+2018-11-18T07:47:02.579Z - info: START seeder.
+2018-11-18T07:47:02.586Z - debug: 5 customers seeded
+2018-11-18T07:47:02.588Z - debug: 5 products seeded
+2018-11-18T07:47:02.598Z - debug: 5 orders seeded
+2018-11-18T07:47:02.604Z - debug: 5 orderLineItems seeded
+2018-11-18T07:47:02.605Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:47:04.502Z - info: Environment variables loaded.
+2018-11-18T07:47:04.553Z - info: START seeder.
+2018-11-18T07:47:04.559Z - debug: 5 customers seeded
+2018-11-18T07:47:04.562Z - debug: 5 products seeded
+2018-11-18T07:47:04.568Z - debug: 5 orders seeded
+2018-11-18T07:47:04.573Z - debug: 5 orderLineItems seeded
+2018-11-18T07:47:04.573Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:47:10.404Z - info: Environment variables loaded.
+2018-11-18T07:47:10.451Z - info: START seeder.
+2018-11-18T07:47:10.455Z - debug: 5 customers seeded
+2018-11-18T07:47:10.458Z - debug: 5 products seeded
+2018-11-18T07:47:10.460Z - debug: 5 orders seeded
+2018-11-18T07:47:10.463Z - debug: 5 orderLineItems seeded
+2018-11-18T07:47:10.464Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:47:23.649Z - info: Environment variables loaded.
+2018-11-18T07:47:23.705Z - info: START seeder.
+2018-11-18T07:47:23.712Z - debug: 5 customers seeded
+2018-11-18T07:47:23.716Z - debug: 5 products seeded
+2018-11-18T07:47:23.719Z - debug: 5 orders seeded
+2018-11-18T07:47:23.724Z - debug: 5 orderLineItems seeded
+2018-11-18T07:47:23.724Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:49:21.230Z - info: Environment variables loaded.
+2018-11-18T07:49:21.280Z - info: START seeder.
+2018-11-18T07:49:21.286Z - debug: 5 customers seeded
+2018-11-18T07:49:21.289Z - debug: 5 products seeded
+2018-11-18T07:49:21.292Z - debug: 5 orders seeded
+2018-11-18T07:49:21.294Z - debug: 5 orderLineItems seeded
+2018-11-18T07:49:21.294Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:55:00.233Z - info: Environment variables loaded.
+2018-11-18T07:55:00.313Z - info: START seeder.
+2018-11-18T07:55:00.318Z - debug: 5 customers seeded
+2018-11-18T07:55:00.320Z - debug: 5 products seeded
+2018-11-18T07:55:00.322Z - debug: 5 orders seeded
+2018-11-18T07:55:00.326Z - debug: 5 orderLineItems seeded
+2018-11-18T07:55:00.326Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:55:03.876Z - info: Environment variables loaded.
+2018-11-18T07:55:03.919Z - info: START seeder.
+2018-11-18T07:55:03.924Z - debug: 5 customers seeded
+2018-11-18T07:55:03.927Z - debug: 5 products seeded
+2018-11-18T07:55:03.928Z - debug: 5 orders seeded
+2018-11-18T07:55:03.930Z - debug: 5 orderLineItems seeded
+2018-11-18T07:55:03.930Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:55:07.200Z - info: Environment variables loaded.
+2018-11-18T07:55:07.248Z - info: START seeder.
+2018-11-18T07:55:07.251Z - debug: 5 customers seeded
+2018-11-18T07:55:07.253Z - debug: 5 products seeded
+2018-11-18T07:55:07.256Z - debug: 5 orders seeded
+2018-11-18T07:55:07.258Z - debug: 5 orderLineItems seeded
+2018-11-18T07:55:07.258Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:57:53.573Z - info: Environment variables loaded.
+2018-11-18T07:57:53.664Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 01:57:53 GMT-0600 (Central Standard Time), pid=94896, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=57327616, heapTotal=38772736, heapUsed=26675904, external=19412557, loadavg=[0, 0, 0], uptime=204309.1403659
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T07:57:53.613Z - info: START seeder.
+2018-11-18T07:57:53.616Z - debug: 5 customers seeded
+2018-11-18T07:57:53.618Z - debug: 5 products seeded
+2018-11-18T07:57:53.620Z - debug: 5 orders seeded
+2018-11-18T07:57:53.621Z - debug: 5 orderLineItems seeded
+2018-11-18T07:57:53.621Z - info: END Seeder. Sample data read and verified.
+2018-11-18T07:58:45.988Z - info: Environment variables loaded.
+2018-11-18T07:58:46.112Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 01:58:46 GMT-0600 (Central Standard Time), pid=79288, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=56295424, heapTotal=39297024, heapUsed=22892064, external=18486352, loadavg=[0, 0, 0], uptime=204361.582512
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-18T07:58:46.037Z - info: START seeder.
+2018-11-18T07:58:46.046Z - debug: 5 customers seeded
+2018-11-18T07:58:46.051Z - debug: 5 products seeded
+2018-11-18T07:58:46.054Z - debug: 5 orders seeded
+2018-11-18T07:58:46.056Z - debug: 5 orderLineItems seeded
+2018-11-18T07:58:46.056Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:01:20.102Z - info: Environment variables loaded.
+2018-11-19T05:01:20.238Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:01:20 GMT-0600 (Central Standard Time), pid=96536, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54460416, heapTotal=38772736, heapUsed=24546848, external=18695301, loadavg=[0, 0, 0], uptime=280115.7050092
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:01:20.166Z - info: START seeder.
+2018-11-19T05:01:20.170Z - debug: 5 customers seeded
+2018-11-19T05:01:20.173Z - debug: 5 products seeded
+2018-11-19T05:01:20.175Z - debug: 5 orders seeded
+2018-11-19T05:01:20.178Z - debug: 5 orderLineItems seeded
+2018-11-19T05:01:20.179Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:09:12.035Z - info: Environment variables loaded.
+2018-11-19T05:09:12.137Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:09:12 GMT-0600 (Central Standard Time), pid=103260, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=56057856, heapTotal=38772736, heapUsed=22872520, external=18486352, loadavg=[0, 0, 0], uptime=280587.613107
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:09:12.077Z - info: START seeder.
+2018-11-19T05:09:12.082Z - debug: 5 customers seeded
+2018-11-19T05:09:12.084Z - debug: 5 products seeded
+2018-11-19T05:09:12.085Z - debug: 5 orders seeded
+2018-11-19T05:09:12.088Z - debug: 5 orderLineItems seeded
+2018-11-19T05:09:12.088Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:18:11.699Z - info: Environment variables loaded.
+2018-11-19T05:18:11.832Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:18:11 GMT-0600 (Central Standard Time), pid=98880, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55644160, heapTotal=39297024, heapUsed=23183736, external=18519048, loadavg=[0, 0, 0], uptime=281127.2959053
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:18:11.747Z - info: START seeder.
+2018-11-19T05:18:11.753Z - debug: 5 customers seeded
+2018-11-19T05:18:11.758Z - debug: 5 products seeded
+2018-11-19T05:18:11.760Z - debug: 5 orders seeded
+2018-11-19T05:18:11.762Z - debug: 5 orderLineItems seeded
+2018-11-19T05:18:11.763Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:23:04.577Z - info: Environment variables loaded.
+2018-11-19T05:23:04.632Z - info: START seeder.
+2018-11-19T05:23:04.637Z - debug: 5 customers seeded
+2018-11-19T05:23:04.640Z - debug: 5 products seeded
+2018-11-19T05:23:04.644Z - debug: 5 orders seeded
+2018-11-19T05:23:04.646Z - debug: 5 orderLineItems seeded
+2018-11-19T05:23:04.646Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:37:30.932Z - info: Environment variables loaded.
+2018-11-19T05:37:31.039Z - info: START seeder.
+2018-11-19T05:37:31.054Z - debug: 5 customers seeded
+2018-11-19T05:37:31.063Z - debug: 5 products seeded
+2018-11-19T05:37:31.076Z - debug: 5 orders seeded
+2018-11-19T05:37:31.092Z - debug: 5 orderLineItems seeded
+2018-11-19T05:37:31.103Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:37:31.150Z - info: Environment variables loaded.
+2018-11-19T05:37:31.311Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:37:31 GMT-0600 (Central Standard Time), pid=103020, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55844864, heapTotal=37724160, heapUsed=26241672, external=18832435, loadavg=[0, 0, 0], uptime=282286.7712865
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:37:31.229Z - info: START seeder.
+2018-11-19T05:37:31.236Z - debug: 5 customers seeded
+2018-11-19T05:37:31.240Z - debug: 5 products seeded
+2018-11-19T05:37:31.244Z - debug: 5 orders seeded
+2018-11-19T05:37:31.249Z - debug: 5 orderLineItems seeded
+2018-11-19T05:37:31.249Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:37:31.138Z - info: Environment variables loaded.
+2018-11-19T05:37:31.311Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:37:31 GMT-0600 (Central Standard Time), pid=106544, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54956032, heapTotal=37724160, heapUsed=25522664, external=18751597, loadavg=[0, 0, 0], uptime=282286.7712865
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:37:31.226Z - info: START seeder.
+2018-11-19T05:37:31.234Z - debug: 5 customers seeded
+2018-11-19T05:37:31.239Z - debug: 5 products seeded
+2018-11-19T05:37:31.244Z - debug: 5 orders seeded
+2018-11-19T05:37:31.250Z - debug: 5 orderLineItems seeded
+2018-11-19T05:37:31.251Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:37:47.104Z - info: Environment variables loaded.
+2018-11-19T05:37:47.200Z - info: START seeder.
+2018-11-19T05:37:47.212Z - debug: 5 customers seeded
+2018-11-19T05:37:47.219Z - debug: 5 products seeded
+2018-11-19T05:37:47.230Z - debug: 5 orders seeded
+2018-11-19T05:37:47.237Z - debug: 5 orderLineItems seeded
+2018-11-19T05:37:47.239Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:37:47.200Z - info: Environment variables loaded.
+2018-11-19T05:37:47.556Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:37:47 GMT-0600 (Central Standard Time), pid=107040, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55816192, heapTotal=37199872, heapUsed=26514664, external=18832435, loadavg=[0, 0, 0], uptime=282302.9546891
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:37:47.307Z - info: START seeder.
+2018-11-19T05:37:47.327Z - debug: 5 customers seeded
+2018-11-19T05:37:47.375Z - debug: 5 products seeded
+2018-11-19T05:37:47.401Z - debug: 5 orders seeded
+2018-11-19T05:37:47.409Z - debug: 5 orderLineItems seeded
+2018-11-19T05:37:47.411Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:37:47.472Z - info: Environment variables loaded.
+2018-11-19T05:37:47.786Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:37:47 GMT-0600 (Central Standard Time), pid=6040, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55910400, heapTotal=37199872, heapUsed=26432000, external=18832435, loadavg=[0, 0, 0], uptime=282303.2379341
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:37:47.652Z - info: START seeder.
+2018-11-19T05:37:47.668Z - debug: 5 customers seeded
+2018-11-19T05:37:47.675Z - debug: 5 products seeded
+2018-11-19T05:37:47.680Z - debug: 5 orders seeded
+2018-11-19T05:37:47.686Z - debug: 5 orderLineItems seeded
+2018-11-19T05:37:47.687Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:41:47.688Z - info: Environment variables loaded.
+2018-11-19T05:41:47.787Z - info: START seeder.
+2018-11-19T05:41:47.794Z - debug: 5 customers seeded
+2018-11-19T05:41:47.798Z - debug: 5 products seeded
+2018-11-19T05:41:47.803Z - debug: 5 orders seeded
+2018-11-19T05:41:47.810Z - debug: 5 orderLineItems seeded
+2018-11-19T05:41:47.811Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:41:47.731Z - info: Environment variables loaded.
+2018-11-19T05:41:47.952Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:41:47 GMT-0600 (Central Standard Time), pid=106640, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=56668160, heapTotal=38772736, heapUsed=23224704, external=18537982, loadavg=[0, 0, 0], uptime=282543.3887413
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:41:47.813Z - info: START seeder.
+2018-11-19T05:41:47.822Z - debug: 5 customers seeded
+2018-11-19T05:41:47.828Z - debug: 5 products seeded
+2018-11-19T05:41:47.833Z - debug: 5 orders seeded
+2018-11-19T05:41:47.843Z - debug: 5 orderLineItems seeded
+2018-11-19T05:41:47.843Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:41:48.212Z - info: Environment variables loaded.
+2018-11-19T05:41:48.329Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:41:48 GMT-0600 (Central Standard Time), pid=107924, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=57483264, heapTotal=39297024, heapUsed=22895896, external=18451587, loadavg=[0, 0, 0], uptime=282543.8008009
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:41:48.263Z - info: START seeder.
+2018-11-19T05:41:48.268Z - debug: 5 customers seeded
+2018-11-19T05:41:48.271Z - debug: 5 products seeded
+2018-11-19T05:41:48.275Z - debug: 5 orders seeded
+2018-11-19T05:41:48.279Z - debug: 5 orderLineItems seeded
+2018-11-19T05:41:48.280Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:42:18.516Z - info: Environment variables loaded.
+2018-11-19T05:42:18.587Z - info: START seeder.
+2018-11-19T05:42:18.595Z - debug: 5 customers seeded
+2018-11-19T05:42:18.599Z - debug: 5 products seeded
+2018-11-19T05:42:18.602Z - debug: 5 orders seeded
+2018-11-19T05:42:18.605Z - debug: 5 orderLineItems seeded
+2018-11-19T05:42:18.605Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:42:18.571Z - info: Environment variables loaded.
+2018-11-19T05:42:18.735Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:42:18 GMT-0600 (Central Standard Time), pid=104772, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=57597952, heapTotal=39821312, heapUsed=22574792, external=18379497, loadavg=[0, 0, 0], uptime=282574.1969159
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:42:18.652Z - info: START seeder.
+2018-11-19T05:42:18.661Z - debug: 5 customers seeded
+2018-11-19T05:42:18.664Z - debug: 5 products seeded
+2018-11-19T05:42:18.668Z - debug: 5 orders seeded
+2018-11-19T05:42:18.672Z - debug: 5 orderLineItems seeded
+2018-11-19T05:42:18.674Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:42:18.998Z - info: Environment variables loaded.
+2018-11-19T05:42:19.196Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:42:19 GMT-0600 (Central Standard Time), pid=108364, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=57040896, heapTotal=39297024, heapUsed=22568216, external=18379497, loadavg=[0, 0, 0], uptime=282574.6464237
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:42:19.100Z - info: START seeder.
+2018-11-19T05:42:19.106Z - debug: 5 customers seeded
+2018-11-19T05:42:19.108Z - debug: 5 products seeded
+2018-11-19T05:42:19.113Z - debug: 5 orders seeded
+2018-11-19T05:42:19.118Z - debug: 5 orderLineItems seeded
+2018-11-19T05:42:19.118Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:43:50.672Z - info: Environment variables loaded.
+2018-11-19T05:43:50.756Z - info: START seeder.
+2018-11-19T05:43:50.764Z - debug: 5 customers seeded
+2018-11-19T05:43:50.768Z - debug: 5 products seeded
+2018-11-19T05:43:50.775Z - debug: 5 orders seeded
+2018-11-19T05:43:50.785Z - debug: 5 orderLineItems seeded
+2018-11-19T05:43:50.788Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:43:50.686Z - info: Environment variables loaded.
+2018-11-19T05:43:50.887Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:43:50 GMT-0600 (Central Standard Time), pid=106724, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55816192, heapTotal=37724160, heapUsed=26135016, external=18832435, loadavg=[0, 0, 0], uptime=282666.3505459
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:43:50.777Z - info: START seeder.
+2018-11-19T05:43:50.790Z - debug: 5 customers seeded
+2018-11-19T05:43:50.798Z - debug: 5 products seeded
+2018-11-19T05:43:50.803Z - debug: 5 orders seeded
+2018-11-19T05:43:50.808Z - debug: 5 orderLineItems seeded
+2018-11-19T05:43:50.817Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:43:51.114Z - info: Environment variables loaded.
+2018-11-19T05:43:51.290Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:43:51 GMT-0600 (Central Standard Time), pid=108476, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=57364480, heapTotal=39821312, heapUsed=22548048, external=18343412, loadavg=[0, 0, 0], uptime=282666.7425012
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:43:51.193Z - info: START seeder.
+2018-11-19T05:43:51.200Z - debug: 5 customers seeded
+2018-11-19T05:43:51.205Z - debug: 5 products seeded
+2018-11-19T05:43:51.208Z - debug: 5 orders seeded
+2018-11-19T05:43:51.213Z - debug: 5 orderLineItems seeded
+2018-11-19T05:43:51.213Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:44:51.108Z - info: Environment variables loaded.
+2018-11-19T05:44:51.228Z - info: START seeder.
+2018-11-19T05:44:51.243Z - debug: 5 customers seeded
+2018-11-19T05:44:51.247Z - debug: 5 products seeded
+2018-11-19T05:44:51.255Z - debug: 5 orders seeded
+2018-11-19T05:44:51.259Z - debug: 5 orderLineItems seeded
+2018-11-19T05:44:51.259Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:44:51.121Z - info: Environment variables loaded.
+2018-11-19T05:44:51.422Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:44:51 GMT-0600 (Central Standard Time), pid=108260, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55828480, heapTotal=37199872, heapUsed=26585888, external=18832435, loadavg=[0, 0, 0], uptime=282726.8572682
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:44:51.243Z - info: START seeder.
+2018-11-19T05:44:51.259Z - debug: 5 customers seeded
+2018-11-19T05:44:51.291Z - debug: 5 products seeded
+2018-11-19T05:44:51.304Z - debug: 5 orders seeded
+2018-11-19T05:44:51.310Z - debug: 5 orderLineItems seeded
+2018-11-19T05:44:51.313Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:44:51.762Z - info: Environment variables loaded.
+2018-11-19T05:44:52.102Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:44:52 GMT-0600 (Central Standard Time), pid=101768, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=56950784, heapTotal=39297024, heapUsed=23232224, external=18510856, loadavg=[0, 0, 0], uptime=282727.5374499
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:44:51.897Z - info: START seeder.
+2018-11-19T05:44:51.912Z - debug: 5 customers seeded
+2018-11-19T05:44:51.922Z - debug: 5 products seeded
+2018-11-19T05:44:51.987Z - debug: 5 orders seeded
+2018-11-19T05:44:51.997Z - debug: 5 orderLineItems seeded
+2018-11-19T05:44:51.999Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:47:24.229Z - info: Environment variables loaded.
+2018-11-19T05:47:24.375Z - info: START seeder.
+2018-11-19T05:47:24.395Z - debug: 5 customers seeded
+2018-11-19T05:47:24.410Z - debug: 5 products seeded
+2018-11-19T05:47:24.424Z - debug: 5 orders seeded
+2018-11-19T05:47:24.434Z - debug: 5 orderLineItems seeded
+2018-11-19T05:47:24.444Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:47:24.437Z - info: Environment variables loaded.
+2018-11-19T05:47:24.723Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:47:24 GMT-0600 (Central Standard Time), pid=108932, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=57065472, heapTotal=39297024, heapUsed=23013272, external=18486352, loadavg=[0, 0, 0], uptime=282880.1734002
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:47:24.611Z - info: START seeder.
+2018-11-19T05:47:24.622Z - debug: 5 customers seeded
+2018-11-19T05:47:24.628Z - debug: 5 products seeded
+2018-11-19T05:47:24.633Z - debug: 5 orders seeded
+2018-11-19T05:47:24.637Z - debug: 5 orderLineItems seeded
+2018-11-19T05:47:24.638Z - info: END Seeder. Sample data read and verified.
+2018-11-19T05:47:24.936Z - info: Environment variables loaded.
+2018-11-19T05:47:25.117Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Sun Nov 18 2018 23:47:25 GMT-0600 (Central Standard Time), pid=109036, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=56766464, heapTotal=39821312, heapUsed=22732480, external=18386777, loadavg=[0, 0, 0], uptime=282880.5733439
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T05:47:25.022Z - info: START seeder.
+2018-11-19T05:47:25.029Z - debug: 5 customers seeded
+2018-11-19T05:47:25.034Z - debug: 5 products seeded
+2018-11-19T05:47:25.041Z - debug: 5 orders seeded
+2018-11-19T05:47:25.045Z - debug: 5 orderLineItems seeded
+2018-11-19T05:47:25.045Z - info: END Seeder. Sample data read and verified.
