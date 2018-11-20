@@ -3180,3 +3180,71 @@ TypeError: Cannot set property 'exports' of undefined
 2018-11-20T22:07:46.206Z - info: Handling GET /delete/:id [object Object]
 2018-11-20T22:08:22.183Z - info: Handling GET /delete/:id [object Object]
 2018-11-20T22:09:33.914Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T22:12:41.559Z - info: Environment variables loaded.
+2018-11-20T22:12:41.566Z - debug: START routing
+2018-11-20T22:12:41.603Z - debug: END routing
+2018-11-20T22:12:41.604Z - info: Routing set as /routes/index.js
+2018-11-20T22:12:41.641Z - info: START seeder.
+2018-11-20T22:12:41.645Z - debug: 5 customers seeded
+2018-11-20T22:12:41.648Z - debug: 5 products seeded
+2018-11-20T22:12:41.650Z - debug: 5 orders seeded
+2018-11-20T22:12:41.651Z - debug: 5 orderLineItems seeded
+2018-11-20T22:12:41.651Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:12:52.680Z - debug: Request to /
+2018-11-20T22:12:59.253Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T22:13:05.788Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T22:16:50.591Z - info: Handling GET /create[object Object]
+2018-11-20T22:16:50.606Z - debug: {"orderID":555,"datePlaced":"2018-11-20T22:12:41.592Z","paymentType":"not selected yet","paid":false}
+2018-11-20T22:16:57.528Z - info: Handling GET /details/:id [object Object]
+2018-11-20T22:17:01.420Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T22:17:07.195Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T22:29:35.783Z - info: Environment variables loaded.
+2018-11-20T22:29:35.898Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Tue Nov 20 2018 16:29:35 GMT-0600 (Central Standard Time), pid=26824, uid=null, gid=null, cwd=C:\Users\S533984\Documents\project\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533984\Documents\project\supersales\app.js], rss=58474496, heapTotal=57122816, heapUsed=23864544, external=18451587, loadavg=[0, 0, 0], uptime=9233.395406
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533984\Documents\project\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533984\Documents\project\supersales\app.js:94:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T22:29:35.789Z - debug: START routing
+2018-11-20T22:29:35.821Z - debug: END routing
+2018-11-20T22:29:35.821Z - info: Routing set as /routes/index.js
+2018-11-20T22:29:35.857Z - info: START seeder.
+2018-11-20T22:29:35.861Z - debug: 5 customers seeded
+2018-11-20T22:29:35.862Z - debug: 5 products seeded
+2018-11-20T22:29:35.864Z - debug: 5 orders seeded
+2018-11-20T22:29:35.865Z - debug: 5 orderLineItems seeded
+2018-11-20T22:29:35.865Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:31:04.025Z - info: Environment variables loaded.
+2018-11-20T22:31:04.157Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Tue Nov 20 2018 16:31:04 GMT-0600 (Central Standard Time), pid=24040, uid=null, gid=null, cwd=C:\Users\S533984\Documents\project\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533984\Documents\project\supersales\app.js], rss=58302464, heapTotal=56598528, heapUsed=24318880, external=18521428, loadavg=[0, 0, 0], uptime=9321.6511048
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533984\Documents\project\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533984\Documents\project\supersales\app.js:94:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T22:31:04.030Z - debug: START routing
+2018-11-20T22:31:04.070Z - debug: END routing
+2018-11-20T22:31:04.070Z - info: Routing set as /routes/index.js
+2018-11-20T22:31:04.105Z - info: START seeder.
+2018-11-20T22:31:04.109Z - debug: 5 customers seeded
+2018-11-20T22:31:04.111Z - debug: 5 products seeded
+2018-11-20T22:31:04.113Z - debug: 5 orders seeded
+2018-11-20T22:31:04.115Z - debug: 5 orderLineItems seeded
+2018-11-20T22:31:04.116Z - info: END Seeder. Sample data read and verified.
