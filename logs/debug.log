@@ -3114,3 +3114,24 @@ TypeError: Cannot set property 'exports' of undefined
 2018-11-20T06:16:50.360Z - info: Handling GET /create [object Object]
 2018-11-20T06:16:50.363Z - debug: {"quantity":1}
 2018-11-20T06:16:54.881Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T06:34:53.486Z - info: Environment variables loaded.
+2018-11-20T06:34:53.491Z - debug: START routing
+2018-11-20T06:34:53.527Z - debug: END routing
+2018-11-20T06:34:53.528Z - info: Routing set as /routes/index.js
+2018-11-20T06:34:53.570Z - info: START seeder.
+2018-11-20T06:34:53.573Z - debug: 5 customers seeded
+2018-11-20T06:34:53.575Z - debug: 5 products seeded
+2018-11-20T06:34:53.577Z - debug: 5 orders seeded
+2018-11-20T06:34:53.578Z - debug: 5 orderLineItems seeded
+2018-11-20T06:34:53.579Z - info: END Seeder. Sample data read and verified.
+2018-11-20T06:35:06.584Z - debug: Request to /
+2018-11-20T06:35:14.385Z - info: Handling GET /create [object Object]
+2018-11-20T06:35:14.398Z - debug: {"quantity":1}
+2018-11-20T06:36:15.701Z - info: Handling POST [object Object]
+2018-11-20T06:36:15.701Z - debug: {"_id":"1","_orderId":"2","_lineNumber":"4","_productKey":"toy","_quantity":"2"}
+2018-11-20T06:36:15.701Z - info: NEW ID 1
+2018-11-20T06:36:15.704Z - info: SAVING NEW product {"quantity":1,"_id":1}
+2018-11-20T06:37:16.042Z - info: Handling POST [object Object]
+2018-11-20T06:37:16.042Z - debug: {"_id":"1","_orderId":"2","_lineNumber":"4","_productKey":"toy","_quantity":"2"}
+2018-11-20T06:37:16.042Z - info: NEW ID 1
+2018-11-20T06:37:16.043Z - info: SAVING NEW product {"quantity":1,"_id":1}

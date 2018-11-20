@@ -1,8 +1,56 @@
-<!.. SnehaMadhavaram>
-
-
-<% include header %>
-
-<h2>The order is created</h2>
-
-<% include footer %>
+<div class="container-fluid">
+    <div class=row>
+      <div class="col col-md-12">
+        
+        <br/>
+        <h2>Create a new order </h2>
+        <br/>
+         <% maxID=0; for (var i=0; i < orders.query.length; i++) {
+        if(orders.query[i]._id > maxID) { maxID=orders.query[i]._id;   }
+          }%>
+          <div class="content">
+            <div>
+              <form name="order" method="POST" action="/order/save">
+  
+                <div class="form-group" id=frm>
+                  <label for="_id">ID</label>
+                  <input type="number" class="form-control" id="_id" name="_id"  required writeonly>
+                </div>
+                <div class="form-group" id=frm>
+                  <label for="_orderId">order ID</label>
+                  <input type="number" class="form-control" id="_orderId" name="_orderId"  required writeonly>
+                </div>
+                <div class="form-group" id=frm>
+                  <label for="_lineNumber">Line number</label>
+                  <input type="number" class="form-control" id="_lineNumber" name="_lineNumber"  required writeonly>
+                </div>
+                <div class="form-group" id=frm>
+                  <label for="_productKey">product Key</label>
+                  <input type="string" class="form-control" id="_productKey" name="_productKey"  required writeonly>
+                </div>
+                <div class="form-group" id=frm>
+                  <label for="_quantity">quantity</label>
+                  <input type="number" class="form-control" id="_quantity" name="_quantity"  required writeonly>
+                </div>
+                
+  
+                <!-- COMMON TO EDIT AND CREATE -->
+                <%include partial_edit.ejs%>
+  
+                  <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                  </div>
+              </form>
+  
+              <br/>
+  
+              <form method="get" action="/order">
+                <input type="submit" value="Return to list" class="btn btn-caution" />
+              </form>
+  
+            </div>
+          </div> 
+      </div>
+    </div>
+  </div>
+  
