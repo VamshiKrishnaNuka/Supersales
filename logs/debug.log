@@ -3135,3 +3135,48 @@ TypeError: Cannot set property 'exports' of undefined
 2018-11-20T06:37:16.042Z - debug: {"_id":"1","_orderId":"2","_lineNumber":"4","_productKey":"toy","_quantity":"2"}
 2018-11-20T06:37:16.042Z - info: NEW ID 1
 2018-11-20T06:37:16.043Z - info: SAVING NEW product {"quantity":1,"_id":1}
+2018-11-20T20:12:02.518Z - info: Environment variables loaded.
+2018-11-20T20:12:02.522Z - debug: START routing
+2018-11-20T20:12:02.554Z - debug: END routing
+2018-11-20T20:12:02.554Z - info: Routing set as /routes/index.js
+2018-11-20T20:12:02.587Z - info: START seeder.
+2018-11-20T20:12:02.590Z - debug: 5 customers seeded
+2018-11-20T20:12:02.591Z - debug: 5 products seeded
+2018-11-20T20:12:02.592Z - debug: 5 orders seeded
+2018-11-20T20:12:02.594Z - debug: 5 orderLineItems seeded
+2018-11-20T20:12:02.594Z - info: END Seeder. Sample data read and verified.
+2018-11-20T20:12:14.149Z - debug: Request to /
+2018-11-20T20:12:46.964Z - info: Handling GET /details/:id [object Object]
+2018-11-20T20:12:53.808Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T20:12:58.069Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T20:13:05.281Z - info: Handling GET /create [object Object]
+2018-11-20T20:13:05.284Z - debug: {"quantity":1}
+2018-11-20T20:13:57.885Z - info: Handling GET /create[object Object]
+2018-11-20T20:13:57.887Z - debug: {"orderID":555,"datePlaced":"2018-11-20T20:12:02.544Z","paymentType":"not selected yet","paid":false}
+2018-11-20T20:14:13.513Z - info: Handling POST [object Object]
+2018-11-20T20:14:13.513Z - debug: {"_id":"6","_orderId":"4","_lineNumber":"34","_productKey":"67","_quantity":"1"}
+2018-11-20T20:14:37.929Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T20:15:32.000Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T20:15:35.696Z - info: Handling GET /create [object Object]
+2018-11-20T20:15:35.697Z - debug: {"quantity":1}
+2018-11-20T22:06:04.343Z - info: Environment variables loaded.
+2018-11-20T22:06:04.349Z - debug: START routing
+2018-11-20T22:06:04.393Z - debug: END routing
+2018-11-20T22:06:04.393Z - info: Routing set as /routes/index.js
+2018-11-20T22:06:04.431Z - info: START seeder.
+2018-11-20T22:06:04.436Z - debug: 5 customers seeded
+2018-11-20T22:06:04.437Z - debug: 5 products seeded
+2018-11-20T22:06:04.439Z - debug: 5 orders seeded
+2018-11-20T22:06:04.441Z - debug: 5 orderLineItems seeded
+2018-11-20T22:06:04.441Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:06:15.733Z - debug: Request to /
+2018-11-20T22:06:19.191Z - debug: Request to /
+2018-11-20T22:06:27.925Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T22:06:34.341Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T22:07:06.302Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T22:07:14.625Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T22:07:29.929Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T22:07:40.658Z - info: Handling GET /details/:id [object Object]
+2018-11-20T22:07:46.206Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T22:08:22.183Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T22:09:33.914Z - info: Handling GET /delete/:id [object Object]
