@@ -11,7 +11,7 @@ const notfoundstring = 'OrderLineItem'
 // GET all JSON
 api.get('/findall', (req, res) => {
     res.setHeader('Content-Type', 'application/json')
-    const data = req.app.locals.orderLineItems.query
+    const data = req.app.locals.orderLineItem.query
     res.send(JSON.stringify(data))
 })
 
@@ -19,7 +19,7 @@ api.get('/findall', (req, res) => {
 api.get('/findone/:id', (req, res) => {
     res.setHeader('Content-Type', 'application/json')
     const id = parseInt(req.params.id, 10) // base 10
-    const data = req.app.locals.orderLineItems.query
+    const data = req.app.locals.orderLineItem.query
     const item = find(data, { _id: id })
     if (!item) { return res.end(notfoundstring) }
     res.send(JSON.stringify(item))
@@ -34,10 +34,10 @@ api.get('/', (req, res) => {
 
 // GET create
 api.get('/create', (req, res) => {
-    LOG.info(`Handling GET /create${req}`)
+    LOG.info(`Handling GET /create ${req}`)
     const item = new Model()
     LOG.debug(JSON.stringify(item))
-    res.render('../orderLineItem/create',
+    res.render('orderLineItem/create',
         {
             title: 'Create product',
             layout: 'layout.ejs',
@@ -49,7 +49,7 @@ api.get('/create', (req, res) => {
 api.get('/delete/:id', (req, res) => {
     LOG.info(`Handling GET /delete/:id ${req}`)
     const id = parseInt(req.params.id, 10) // base 10
-    const data = req.app.locals.orderLineItems.query
+    const data = req.app.locals.orderLineItem.query
     const item = find(data, { _id: id })
     if (!item) { return res.end(notfoundstring) }
     LOG.info(`RETURNING VIEW FOR ${JSON.stringify(item)}`)
@@ -65,7 +65,7 @@ api.get('/delete/:id', (req, res) => {
 api.get('/details/:id', (req, res) => {
     LOG.info(`Handling GET /details/:id ${req}`)
     const id = parseInt(req.params.id, 10) // base 10
-    const data = req.app.locals.orderLineItems.query
+    const data = req.app.locals.orderLineItem.query
     const item = find(data, { _id: id })
     if (!item) { return res.end(notfoundstring) }
     LOG.info(`RETURNING VIEW FOR ${JSON.stringify(item)}`)
@@ -81,7 +81,7 @@ api.get('/details/:id', (req, res) => {
 api.get('/edit/:id', (req, res) => {
     LOG.info(`Handling GET /edit/:id ${req}`)
     const id = parseInt(req.params.id, 10) // base 10
-    const data = req.app.locals.orderLineItems.query
+    const data = req.app.locals.orderLineItem.query
     const item = find(data, { _id: id })
     if (!item) { return res.end(notfoundstring) }
     LOG.info(`RETURNING VIEW FOR${JSON.stringify(item)}`)

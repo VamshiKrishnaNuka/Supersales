@@ -23,8 +23,7 @@ router.get('/', (req, res, next) => {
 // router.use('/about', require('../controllers/about.js'))
 router.use('/customer', require('../controllers/customer.js'))
 router.use('/order', require('../controllers/order.js'))
-router.use('/orderLine', require('../controllers/orderLineItem.js'))
+router.use('/orderLineItem', require('../controllers/orderLineItem.js'))
 router.use('/product', require('../controllers/product.js'))
-router.
 LOG.debug('END routing')
 module.exports = router

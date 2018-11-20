@@ -2316,3 +2316,787 @@ Error: listen EADDRINUSE :::8089
 2018-11-19T05:47:25.041Z - debug: 5 orders seeded
 2018-11-19T05:47:25.045Z - debug: 5 orderLineItems seeded
 2018-11-19T05:47:25.045Z - info: END Seeder. Sample data read and verified.
+2018-11-19T19:08:03.087Z - info: Environment variables loaded.
+2018-11-19T19:08:03.219Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Mon Nov 19 2018 13:08:03 GMT-0600 (Central Standard Time), pid=114616, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54370304, heapTotal=38248448, heapUsed=24554920, external=18699494, loadavg=[0, 0, 0], uptime=330918.6875054
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T19:08:03.138Z - info: START seeder.
+2018-11-19T19:08:03.142Z - debug: 5 customers seeded
+2018-11-19T19:08:03.144Z - debug: 5 products seeded
+2018-11-19T19:08:03.146Z - debug: 5 orders seeded
+2018-11-19T19:08:03.148Z - debug: 5 orderLineItems seeded
+2018-11-19T19:08:03.148Z - info: END Seeder. Sample data read and verified.
+2018-11-19T19:08:28.285Z - info: Environment variables loaded.
+2018-11-19T19:08:28.410Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Mon Nov 19 2018 13:08:28 GMT-0600 (Central Standard Time), pid=98792, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54820864, heapTotal=38248448, heapUsed=24025696, external=18638291, loadavg=[0, 0, 0], uptime=330943.8784095
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T19:08:28.343Z - info: START seeder.
+2018-11-19T19:08:28.347Z - debug: 5 customers seeded
+2018-11-19T19:08:28.350Z - debug: 5 products seeded
+2018-11-19T19:08:28.352Z - debug: 5 orders seeded
+2018-11-19T19:08:28.353Z - debug: 5 orderLineItems seeded
+2018-11-19T19:08:28.354Z - info: END Seeder. Sample data read and verified.
+2018-11-19T19:11:17.820Z - info: Environment variables loaded.
+2018-11-19T19:11:17.861Z - info: START seeder.
+2018-11-19T19:11:17.871Z - debug: 5 customers seeded
+2018-11-19T19:11:17.875Z - debug: 5 products seeded
+2018-11-19T19:11:17.877Z - debug: 5 orders seeded
+2018-11-19T19:11:17.879Z - debug: 5 orderLineItems seeded
+2018-11-19T19:11:17.880Z - info: END Seeder. Sample data read and verified.
+2018-11-19T20:15:41.010Z - info: Environment variables loaded.
+2018-11-19T20:15:41.078Z - info: START seeder.
+2018-11-19T20:15:41.088Z - debug: 5 customers seeded
+2018-11-19T20:15:41.094Z - debug: 5 products seeded
+2018-11-19T20:15:41.099Z - debug: 5 orders seeded
+2018-11-19T20:15:41.101Z - debug: 5 orderLineItems seeded
+2018-11-19T20:15:41.101Z - info: END Seeder. Sample data read and verified.
+2018-11-19T20:23:49.679Z - info: Environment variables loaded.
+2018-11-19T20:23:49.734Z - info: START seeder.
+2018-11-19T20:23:49.742Z - debug: 5 customers seeded
+2018-11-19T20:23:49.746Z - debug: 5 products seeded
+2018-11-19T20:23:49.750Z - debug: 5 orders seeded
+2018-11-19T20:23:49.753Z - debug: 5 orderLineItems seeded
+2018-11-19T20:23:49.754Z - info: END Seeder. Sample data read and verified.
+2018-11-19T20:29:25.444Z - info: Environment variables loaded.
+2018-11-19T20:29:25.496Z - info: START seeder.
+2018-11-19T20:29:25.499Z - debug: 5 customers seeded
+2018-11-19T20:29:25.501Z - debug: 5 products seeded
+2018-11-19T20:29:25.502Z - debug: 5 orders seeded
+2018-11-19T20:29:25.504Z - debug: 5 orderLineItems seeded
+2018-11-19T20:29:25.505Z - info: END Seeder. Sample data read and verified.
+2018-11-19T20:54:57.100Z - info: Environment variables loaded.
+2018-11-19T20:54:57.168Z - info: START seeder.
+2018-11-19T20:54:57.176Z - debug: 5 customers seeded
+2018-11-19T20:54:57.179Z - debug: 5 products seeded
+2018-11-19T20:54:57.186Z - debug: 5 orders seeded
+2018-11-19T20:54:57.189Z - debug: 5 orderLineItems seeded
+2018-11-19T20:54:57.191Z - info: END Seeder. Sample data read and verified.
+2018-11-19T21:51:05.558Z - info: Environment variables loaded.
+2018-11-19T21:51:05.699Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Mon Nov 19 2018 15:51:05 GMT-0600 (Central Standard Time), pid=130564, uid=null, gid=null, cwd=c:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, c:\Users\S533905\Documents\supersales\app.js], rss=73961472, heapTotal=58695680, heapUsed=24458128, external=18296048, loadavg=[0, 0, 0], uptime=340701.1656474
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (c:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (c:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:650:14)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T21:51:05.616Z - info: START seeder.
+2018-11-19T21:51:05.624Z - debug: 5 customers seeded
+2018-11-19T21:51:05.629Z - debug: 5 products seeded
+2018-11-19T21:51:05.638Z - debug: 5 orders seeded
+2018-11-19T21:51:05.645Z - debug: 5 orderLineItems seeded
+2018-11-19T21:51:05.645Z - info: END Seeder. Sample data read and verified.
+2018-11-19T21:51:41.927Z - info: Environment variables loaded.
+2018-11-19T21:51:42.183Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Mon Nov 19 2018 15:51:42 GMT-0600 (Central Standard Time), pid=111344, uid=null, gid=null, cwd=c:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, c:\Users\S533905\Documents\supersales\app.js], rss=74633216, heapTotal=59219968, heapUsed=23235856, external=18279532, loadavg=[0, 0, 0], uptime=340737.6371405
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (c:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (c:\Users\S533905\Documents\supersales\app.js:90:6)
+    at Module._compile (module.js:650:14)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T21:51:42.021Z - info: START seeder.
+2018-11-19T21:51:42.055Z - debug: 5 customers seeded
+2018-11-19T21:51:42.071Z - debug: 5 products seeded
+2018-11-19T21:51:42.087Z - debug: 5 orders seeded
+2018-11-19T21:51:42.107Z - debug: 5 orderLineItems seeded
+2018-11-19T21:51:42.107Z - info: END Seeder. Sample data read and verified.
+2018-11-19T21:53:26.537Z - info: Environment variables loaded.
+2018-11-19T21:53:26.696Z - info: START seeder.
+2018-11-19T21:53:26.710Z - debug: 5 customers seeded
+2018-11-19T21:53:26.716Z - debug: 5 products seeded
+2018-11-19T21:53:26.721Z - debug: 5 orders seeded
+2018-11-19T21:53:26.732Z - debug: 5 orderLineItems seeded
+2018-11-19T21:53:26.732Z - info: END Seeder. Sample data read and verified.
+2018-11-20T03:02:18.041Z - info: Environment variables loaded.
+2018-11-20T03:02:18.097Z - info: START seeder.
+2018-11-20T03:02:18.103Z - debug: 5 customers seeded
+2018-11-20T03:02:18.107Z - debug: 5 products seeded
+2018-11-20T03:02:18.109Z - debug: 5 orders seeded
+2018-11-20T03:02:18.111Z - debug: 5 orderLineItems seeded
+2018-11-20T03:02:18.112Z - info: END Seeder. Sample data read and verified.
+2018-11-20T03:47:54.379Z - info: Environment variables loaded.
+2018-11-20T03:47:54.449Z - info: START seeder.
+2018-11-20T03:47:54.452Z - debug: 5 customers seeded
+2018-11-20T03:47:54.454Z - debug: 5 products seeded
+2018-11-20T03:47:54.455Z - debug: 5 orders seeded
+2018-11-20T03:47:54.458Z - debug: 5 orderLineItems seeded
+2018-11-20T03:47:54.458Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:00:30.520Z - info: Environment variables loaded.
+2018-11-20T04:00:30.596Z - info: START seeder.
+2018-11-20T04:00:30.601Z - debug: 5 customers seeded
+2018-11-20T04:00:30.603Z - debug: 5 products seeded
+2018-11-20T04:00:30.608Z - debug: 5 orders seeded
+2018-11-20T04:00:30.612Z - debug: 5 orderLineItems seeded
+2018-11-20T04:00:30.612Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:01:47.636Z - info: Environment variables loaded.
+2018-11-20T04:01:47.687Z - info: START seeder.
+2018-11-20T04:01:47.693Z - debug: 5 customers seeded
+2018-11-20T04:01:47.695Z - debug: 5 products seeded
+2018-11-20T04:01:47.696Z - debug: 5 orders seeded
+2018-11-20T04:01:47.698Z - debug: 5 orderLineItems seeded
+2018-11-20T04:01:47.699Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:26:44.928Z - info: Environment variables loaded.
+2018-11-20T04:26:44.970Z - info: START seeder.
+2018-11-20T04:26:44.976Z - debug: 5 customers seeded
+2018-11-20T04:26:44.982Z - debug: 5 products seeded
+2018-11-20T04:26:44.987Z - debug: 5 orders seeded
+2018-11-20T04:26:44.992Z - debug: 5 orderLineItems seeded
+2018-11-20T04:26:44.992Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:28:03.912Z - info: Environment variables loaded.
+2018-11-20T04:28:04.015Z - info: START seeder.
+2018-11-20T04:28:04.029Z - debug: 5 customers seeded
+2018-11-20T04:28:04.034Z - debug: 5 products seeded
+2018-11-20T04:28:04.038Z - debug: 5 orders seeded
+2018-11-20T04:28:04.043Z - debug: 5 orderLineItems seeded
+2018-11-20T04:28:04.043Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:28:12.124Z - info: Environment variables loaded.
+2018-11-20T04:28:12.214Z - info: START seeder.
+2018-11-20T04:28:12.220Z - debug: 5 customers seeded
+2018-11-20T04:28:12.224Z - debug: 5 products seeded
+2018-11-20T04:28:12.228Z - debug: 5 orders seeded
+2018-11-20T04:28:12.231Z - debug: 5 orderLineItems seeded
+2018-11-20T04:28:12.231Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:28:54.024Z - info: Environment variables loaded.
+2018-11-20T04:28:54.107Z - info: START seeder.
+2018-11-20T04:28:54.117Z - debug: 5 customers seeded
+2018-11-20T04:28:54.119Z - debug: 5 products seeded
+2018-11-20T04:28:54.121Z - debug: 5 orders seeded
+2018-11-20T04:28:54.123Z - debug: 5 orderLineItems seeded
+2018-11-20T04:28:54.124Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:29:05.020Z - info: Environment variables loaded.
+2018-11-20T04:29:05.118Z - info: START seeder.
+2018-11-20T04:29:05.127Z - debug: 5 customers seeded
+2018-11-20T04:29:05.134Z - debug: 5 products seeded
+2018-11-20T04:29:05.137Z - debug: 5 orders seeded
+2018-11-20T04:29:05.139Z - debug: 5 orderLineItems seeded
+2018-11-20T04:29:05.140Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:29:57.645Z - info: Environment variables loaded.
+2018-11-20T04:29:57.697Z - info: START seeder.
+2018-11-20T04:29:57.704Z - debug: 5 customers seeded
+2018-11-20T04:29:57.707Z - debug: 5 products seeded
+2018-11-20T04:29:57.710Z - debug: 5 orders seeded
+2018-11-20T04:29:57.716Z - debug: 5 orderLineItems seeded
+2018-11-20T04:29:57.717Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:30:04.085Z - info: Environment variables loaded.
+2018-11-20T04:30:04.146Z - info: START seeder.
+2018-11-20T04:30:04.154Z - debug: 5 customers seeded
+2018-11-20T04:30:04.157Z - debug: 5 products seeded
+2018-11-20T04:30:04.160Z - debug: 5 orders seeded
+2018-11-20T04:30:04.162Z - debug: 5 orderLineItems seeded
+2018-11-20T04:30:04.163Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:30:09.424Z - info: Environment variables loaded.
+2018-11-20T04:30:09.531Z - info: START seeder.
+2018-11-20T04:30:09.540Z - debug: 5 customers seeded
+2018-11-20T04:30:09.546Z - debug: 5 products seeded
+2018-11-20T04:30:09.551Z - debug: 5 orders seeded
+2018-11-20T04:30:09.559Z - debug: 5 orderLineItems seeded
+2018-11-20T04:30:09.559Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:31:10.212Z - info: Environment variables loaded.
+2018-11-20T04:31:10.292Z - info: START seeder.
+2018-11-20T04:31:10.297Z - debug: 5 customers seeded
+2018-11-20T04:31:10.305Z - debug: 5 products seeded
+2018-11-20T04:31:10.311Z - debug: 5 orders seeded
+2018-11-20T04:31:10.313Z - debug: 5 orderLineItems seeded
+2018-11-20T04:31:10.313Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:31:25.376Z - info: Environment variables loaded.
+2018-11-20T04:31:25.474Z - info: START seeder.
+2018-11-20T04:31:25.489Z - debug: 5 customers seeded
+2018-11-20T04:31:25.496Z - debug: 5 products seeded
+2018-11-20T04:31:25.506Z - debug: 5 orders seeded
+2018-11-20T04:31:25.510Z - debug: 5 orderLineItems seeded
+2018-11-20T04:31:25.510Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:31:35.956Z - info: Environment variables loaded.
+2018-11-20T04:31:36.179Z - info: START seeder.
+2018-11-20T04:31:36.200Z - debug: 5 customers seeded
+2018-11-20T04:31:36.208Z - debug: 5 products seeded
+2018-11-20T04:31:36.213Z - debug: 5 orders seeded
+2018-11-20T04:31:36.221Z - debug: 5 orderLineItems seeded
+2018-11-20T04:31:36.222Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:32:01.607Z - info: Environment variables loaded.
+2018-11-20T04:32:01.671Z - info: START seeder.
+2018-11-20T04:32:01.677Z - debug: 5 customers seeded
+2018-11-20T04:32:01.680Z - debug: 5 products seeded
+2018-11-20T04:32:01.682Z - debug: 5 orders seeded
+2018-11-20T04:32:01.684Z - debug: 5 orderLineItems seeded
+2018-11-20T04:32:01.685Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:50:33.851Z - info: Environment variables loaded.
+2018-11-20T04:50:33.885Z - info: START seeder.
+2018-11-20T04:50:33.888Z - debug: 5 customers seeded
+2018-11-20T04:50:33.890Z - debug: 5 products seeded
+2018-11-20T04:50:33.892Z - debug: 5 orders seeded
+2018-11-20T04:50:33.893Z - debug: 5 orderLineItems seeded
+2018-11-20T04:50:33.894Z - info: END Seeder. Sample data read and verified.
+2018-11-20T05:03:54.783Z - info: Environment variables loaded.
+2018-11-20T05:03:54.878Z - info: START seeder.
+2018-11-20T05:03:54.886Z - debug: 5 customers seeded
+2018-11-20T05:03:54.890Z - debug: 5 products seeded
+2018-11-20T05:03:54.894Z - debug: 5 orders seeded
+2018-11-20T05:03:54.900Z - debug: 5 orderLineItems seeded
+2018-11-20T05:03:54.907Z - info: END Seeder. Sample data read and verified.
+2018-11-20T05:05:06.176Z - info: Environment variables loaded.
+2018-11-20T05:05:06.264Z - info: START seeder.
+2018-11-20T05:05:06.270Z - debug: 5 customers seeded
+2018-11-20T05:05:06.273Z - debug: 5 products seeded
+2018-11-20T05:05:06.275Z - debug: 5 orders seeded
+2018-11-20T05:05:06.278Z - debug: 5 orderLineItems seeded
+2018-11-20T05:05:06.278Z - info: END Seeder. Sample data read and verified.
+2018-11-20T05:09:48.543Z - info: Environment variables loaded.
+2018-11-20T05:09:48.620Z - info: START seeder.
+2018-11-20T05:09:48.624Z - debug: 5 customers seeded
+2018-11-20T05:09:48.628Z - debug: 5 products seeded
+2018-11-20T05:09:48.631Z - debug: 5 orders seeded
+2018-11-20T05:09:48.636Z - debug: 5 orderLineItems seeded
+2018-11-20T05:09:48.636Z - info: END Seeder. Sample data read and verified.
+2018-11-20T05:09:58.124Z - info: Environment variables loaded.
+2018-11-20T05:09:58.177Z - info: START seeder.
+2018-11-20T05:09:58.184Z - debug: 5 customers seeded
+2018-11-20T05:09:58.186Z - debug: 5 products seeded
+2018-11-20T05:09:58.188Z - debug: 5 orders seeded
+2018-11-20T05:09:58.190Z - debug: 5 orderLineItems seeded
+2018-11-20T05:09:58.190Z - info: END Seeder. Sample data read and verified.
+2018-11-20T05:11:20.147Z - info: Environment variables loaded.
+2018-11-20T05:11:20.234Z - info: START seeder.
+2018-11-20T05:11:20.243Z - debug: 5 customers seeded
+2018-11-20T05:11:20.249Z - debug: 5 products seeded
+2018-11-20T05:11:20.253Z - debug: 5 orders seeded
+2018-11-20T05:11:20.267Z - debug: 5 orderLineItems seeded
+2018-11-20T05:11:20.268Z - info: END Seeder. Sample data read and verified.
+2018-11-20T05:12:10.738Z - info: Environment variables loaded.
+2018-11-20T05:12:10.814Z - info: START seeder.
+2018-11-20T05:12:10.820Z - debug: 5 customers seeded
+2018-11-20T05:12:10.825Z - debug: 5 products seeded
+2018-11-20T05:12:10.829Z - debug: 5 orders seeded
+2018-11-20T05:12:10.832Z - debug: 5 orderLineItems seeded
+2018-11-20T05:12:10.832Z - info: END Seeder. Sample data read and verified.
+2018-11-20T05:12:24.667Z - info: Environment variables loaded.
+2018-11-20T05:12:24.715Z - info: START seeder.
+2018-11-20T05:12:24.724Z - debug: 5 customers seeded
+2018-11-20T05:12:24.728Z - debug: 5 products seeded
+2018-11-20T05:12:24.739Z - debug: 5 orders seeded
+2018-11-20T05:12:24.743Z - debug: 5 orderLineItems seeded
+2018-11-20T05:12:24.744Z - info: END Seeder. Sample data read and verified.
+2018-11-20T05:12:30.996Z - info: Environment variables loaded.
+2018-11-20T05:12:31.054Z - info: START seeder.
+2018-11-20T05:12:31.072Z - debug: 5 customers seeded
+2018-11-20T05:12:31.077Z - debug: 5 products seeded
+2018-11-20T05:12:31.081Z - debug: 5 orders seeded
+2018-11-20T05:12:31.089Z - debug: 5 orderLineItems seeded
+2018-11-20T05:12:31.089Z - info: END Seeder. Sample data read and verified.
+2018-11-20T05:12:33.493Z - info: Environment variables loaded.
+2018-11-20T05:12:33.556Z - error: uncaughtException: app.use() requires a middleware function date=Mon Nov 19 2018 23:12:33 GMT-0600 (Central Standard Time), pid=132016, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54501376, heapTotal=36675584, heapUsed=25261776, external=19954628, loadavg=[0, 0, 0], uptime=367189.0078194
+TypeError: app.use() requires a middleware function
+    at Function.use (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:210:11)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T05:12:39.261Z - info: Environment variables loaded.
+2018-11-20T05:12:39.367Z - error: uncaughtException: ro is not defined date=Mon Nov 19 2018 23:12:39 GMT-0600 (Central Standard Time), pid=144532, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=53977088, heapTotal=36675584, heapUsed=25961896, external=19960333, loadavg=[0, 0, 0], uptime=367194.8111384
+ReferenceError: ro is not defined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:13)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T05:12:41.906Z - info: Environment variables loaded.
+2018-11-20T05:12:41.967Z - error: uncaughtException: routes is not defined date=Mon Nov 19 2018 23:12:41 GMT-0600 (Central Standard Time), pid=88344, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54296576, heapTotal=36675584, heapUsed=25785680, external=19960333, loadavg=[0, 0, 0], uptime=367197.4202921
+ReferenceError: routes is not defined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:13)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T05:12:45.194Z - info: Environment variables loaded.
+2018-11-20T05:12:45.268Z - error: uncaughtException: routes is not defined date=Mon Nov 19 2018 23:12:45 GMT-0600 (Central Standard Time), pid=150096, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=53342208, heapTotal=37199872, heapUsed=24197120, external=18600419, loadavg=[0, 0, 0], uptime=367200.7168132
+ReferenceError: routes is not defined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:13)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T05:13:02.601Z - info: Environment variables loaded.
+2018-11-20T05:13:02.697Z - error: uncaughtException: missing path date=Mon Nov 19 2018 23:13:02 GMT-0600 (Central Standard Time), pid=150972, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55525376, heapTotal=38248448, heapUsed=20770480, external=18287032, loadavg=[0, 0, 0], uptime=367218.1308816
+AssertionError [ERR_ASSERTION]: missing path
+    at Module.require (module.js:595:3)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T05:13:05.001Z - info: Environment variables loaded.
+2018-11-20T05:13:05.060Z - error: uncaughtException: Router.use() requires a middleware function but got a Object date=Mon Nov 19 2018 23:13:05 GMT-0600 (Central Standard Time), pid=151164, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54734848, heapTotal=38772736, heapUsed=21147592, external=18301910, loadavg=[0, 0, 0], uptime=367220.5237955
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\S533905\Documents\supersales\node_modules\express\lib\router\index.js:458:13)
+    at Function.<anonymous> (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:220:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\S533905\Documents\supersales\node_modules\express\lib\application.js:217:7)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:47:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T05:13:09.182Z - info: Environment variables loaded.
+2018-11-20T05:13:09.248Z - error: uncaughtException: Cannot find module './route' date=Mon Nov 19 2018 23:13:09 GMT-0600 (Central Standard Time), pid=151140, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55205888, heapTotal=39821312, heapUsed=20750384, external=18287032, loadavg=[0, 0, 0], uptime=367224.6965515
+Error: Cannot find module './route'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T05:13:13.270Z - info: Environment variables loaded.
+2018-11-20T05:13:13.333Z - error: uncaughtException: Cannot find module './routes/inde' date=Mon Nov 19 2018 23:13:13 GMT-0600 (Central Standard Time), pid=145440, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=53624832, heapTotal=38772736, heapUsed=22130848, external=18457650, loadavg=[0, 0, 0], uptime=367228.7892368
+Error: Cannot find module './routes/inde'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T05:13:15.773Z - info: Environment variables loaded.
+2018-11-20T05:13:15.863Z - error: uncaughtException: Cannot read property 'debug' of undefined date=Mon Nov 19 2018 23:13:15 GMT-0600 (Central Standard Time), pid=151356, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=56729600, heapTotal=39821312, heapUsed=21876192, external=18367964, loadavg=[0, 0, 0], uptime=367231.3281498
+TypeError: Cannot read property 'debug' of undefined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\routes\index.js:29:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+2018-11-20T05:13:15.778Z - debug: START routing
+2018-11-20T05:13:28.566Z - info: Environment variables loaded.
+2018-11-20T05:13:28.724Z - error: uncaughtException: Cannot read property 'debug' of undefined date=Mon Nov 19 2018 23:13:28 GMT-0600 (Central Standard Time), pid=150608, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54636544, heapTotal=38772736, heapUsed=23438120, external=18563635, loadavg=[0, 0, 0], uptime=367244.1623413
+TypeError: Cannot read property 'debug' of undefined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\routes\index.js:29:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+2018-11-20T05:13:28.576Z - debug: START routing
+2018-11-20T05:13:32.013Z - info: Environment variables loaded.
+2018-11-20T05:13:32.105Z - error: uncaughtException: Cannot read property 'debug' of undefined date=Mon Nov 19 2018 23:13:32 GMT-0600 (Central Standard Time), pid=151464, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=56614912, heapTotal=39297024, heapUsed=22030136, external=18359773, loadavg=[0, 0, 0], uptime=367247.5718291
+TypeError: Cannot read property 'debug' of undefined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\routes\index.js:29:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+2018-11-20T05:13:32.020Z - debug: START routing
+2018-11-20T05:13:38.239Z - info: Environment variables loaded.
+2018-11-20T05:13:38.363Z - error: uncaughtException: Cannot read property 'debug' of undefined date=Mon Nov 19 2018 23:13:38 GMT-0600 (Central Standard Time), pid=150628, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54259712, heapTotal=38248448, heapUsed=24824280, external=18676941, loadavg=[0, 0, 0], uptime=367253.8207108
+TypeError: Cannot read property 'debug' of undefined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\routes\index.js:29:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+2018-11-20T05:13:38.246Z - debug: START routing
+2018-11-20T05:13:43.888Z - info: Environment variables loaded.
+2018-11-20T05:13:43.992Z - error: uncaughtException: Cannot read property 'debug' of undefined date=Mon Nov 19 2018 23:13:43 GMT-0600 (Central Standard Time), pid=150720, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54243328, heapTotal=38248448, heapUsed=24693552, external=18676941, loadavg=[0, 0, 0], uptime=367259.4579619
+TypeError: Cannot read property 'debug' of undefined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\routes\index.js:29:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+2018-11-20T05:13:43.897Z - debug: START routing
+2018-11-20T05:13:47.482Z - info: Environment variables loaded.
+2018-11-20T05:13:47.623Z - error: uncaughtException: Cannot read property 'debug' of undefined date=Mon Nov 19 2018 23:13:47 GMT-0600 (Central Standard Time), pid=151744, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55193600, heapTotal=38248448, heapUsed=25643808, external=18757779, loadavg=[0, 0, 0], uptime=367263.0499523
+TypeError: Cannot read property 'debug' of undefined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\routes\index.js:29:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+2018-11-20T05:13:47.489Z - debug: START routing
+2018-11-20T05:13:55.729Z - info: Environment variables loaded.
+2018-11-20T05:13:55.832Z - error: uncaughtException: Cannot read property 'debug' of undefined date=Mon Nov 19 2018 23:13:55 GMT-0600 (Central Standard Time), pid=151828, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=56586240, heapTotal=40345600, heapUsed=21758520, external=18297604, loadavg=[0, 0, 0], uptime=367271.2900918
+TypeError: Cannot read property 'debug' of undefined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\routes\index.js:29:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+2018-11-20T05:13:55.734Z - debug: START routing
+2018-11-20T05:14:01.170Z - info: Environment variables loaded.
+2018-11-20T05:14:01.326Z - error: uncaughtException: Cannot read property 'debug' of undefined date=Mon Nov 19 2018 23:14:01 GMT-0600 (Central Standard Time), pid=150884, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54505472, heapTotal=38248448, heapUsed=24790248, external=18676941, loadavg=[0, 0, 0], uptime=367276.7805007
+TypeError: Cannot read property 'debug' of undefined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\routes\index.js:29:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+2018-11-20T05:14:01.177Z - debug: START routing
+2018-11-20T05:14:09.406Z - info: Environment variables loaded.
+2018-11-20T05:14:09.507Z - error: uncaughtException: Cannot read property 'debug' of undefined date=Mon Nov 19 2018 23:14:09 GMT-0600 (Central Standard Time), pid=151948, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=53706752, heapTotal=38248448, heapUsed=24218752, external=18629952, loadavg=[0, 0, 0], uptime=367284.9741716
+TypeError: Cannot read property 'debug' of undefined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\routes\index.js:29:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+2018-11-20T05:14:09.418Z - debug: START routing
+2018-11-20T05:14:11.240Z - info: Environment variables loaded.
+2018-11-20T05:14:11.364Z - error: uncaughtException: Cannot read property 'debug' of undefined date=Mon Nov 19 2018 23:14:11 GMT-0600 (Central Standard Time), pid=151772, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=56127488, heapTotal=38772736, heapUsed=22303088, external=18428008, loadavg=[0, 0, 0], uptime=367286.8088453
+TypeError: Cannot read property 'debug' of undefined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\routes\index.js:29:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+2018-11-20T05:14:11.247Z - debug: START routing
+2018-11-20T05:14:13.355Z - info: Environment variables loaded.
+2018-11-20T05:14:13.513Z - error: uncaughtException: Cannot read property 'debug' of undefined date=Mon Nov 19 2018 23:14:13 GMT-0600 (Central Standard Time), pid=150168, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=55717888, heapTotal=39297024, heapUsed=22495848, external=18444392, loadavg=[0, 0, 0], uptime=367288.9772361
+TypeError: Cannot read property 'debug' of undefined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\routes\index.js:29:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+2018-11-20T05:14:13.374Z - debug: START routing
+2018-11-20T05:14:26.997Z - info: Environment variables loaded.
+2018-11-20T05:14:27.098Z - error: uncaughtException: Cannot read property 'debug' of undefined date=Mon Nov 19 2018 23:14:27 GMT-0600 (Central Standard Time), pid=151396, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=53477376, heapTotal=38248448, heapUsed=24294208, external=18629952, loadavg=[0, 0, 0], uptime=367302.5628321
+TypeError: Cannot read property 'debug' of undefined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\routes\index.js:29:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+2018-11-20T05:14:27.005Z - debug: START routing
+2018-11-20T05:16:01.369Z - info: Environment variables loaded.
+2018-11-20T05:16:01.502Z - error: uncaughtException: Cannot set property 'exports' of undefined date=Mon Nov 19 2018 23:16:01 GMT-0600 (Central Standard Time), pid=150016, uid=null, gid=null, cwd=C:\Users\S533905\Documents\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533905\Documents\supersales\app.js], rss=54886400, heapTotal=38772736, heapUsed=23291736, external=18552883, loadavg=[0, 0, 0], uptime=367396.9619996
+TypeError: Cannot set property 'exports' of undefined
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\routes\index.js:30:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\S533905\Documents\supersales\app.js:46:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+2018-11-20T05:16:01.376Z - debug: START routing
+2018-11-20T05:16:19.149Z - info: Environment variables loaded.
+2018-11-20T05:16:19.163Z - debug: START routing
+2018-11-20T05:16:19.219Z - info: Routing set as /routes/index.js
+2018-11-20T05:16:19.279Z - info: START seeder.
+2018-11-20T05:16:19.283Z - debug: 5 customers seeded
+2018-11-20T05:16:19.285Z - debug: 5 products seeded
+2018-11-20T05:16:19.287Z - debug: 5 orders seeded
+2018-11-20T05:16:19.294Z - debug: 5 orderLineItems seeded
+2018-11-20T05:16:19.294Z - info: END Seeder. Sample data read and verified.
+2018-11-20T05:16:21.571Z - info: Environment variables loaded.
+2018-11-20T05:16:21.579Z - debug: START routing
+2018-11-20T05:16:21.623Z - debug: END routing
+2018-11-20T05:16:21.623Z - info: Routing set as /routes/index.js
+2018-11-20T05:16:21.662Z - info: START seeder.
+2018-11-20T05:16:21.667Z - debug: 5 customers seeded
+2018-11-20T05:16:21.669Z - debug: 5 products seeded
+2018-11-20T05:16:21.672Z - debug: 5 orders seeded
+2018-11-20T05:16:21.675Z - debug: 5 orderLineItems seeded
+2018-11-20T05:16:21.676Z - info: END Seeder. Sample data read and verified.
+2018-11-20T05:16:25.250Z - debug: Request to /
+2018-11-20T05:16:28.832Z - info: Handling GET /create [object Object]
+2018-11-20T05:16:28.848Z - debug: {"quantity":1}
+2018-11-20T05:16:56.347Z - info: Handling GET /create [object Object]
+2018-11-20T05:16:56.353Z - debug: {"quantity":1}
+2018-11-20T05:17:14.037Z - info: Handling GET /create [object Object]
+2018-11-20T05:17:14.041Z - debug: {"quantity":1}
+2018-11-20T05:17:21.098Z - info: Handling GET /create [object Object]
+2018-11-20T05:17:21.102Z - debug: {"quantity":1}
+2018-11-20T05:17:26.491Z - info: Handling GET /create [object Object]
+2018-11-20T05:17:26.492Z - debug: {"quantity":1}
+2018-11-20T05:19:02.942Z - info: Handling GET /create [object Object]
+2018-11-20T05:19:02.944Z - debug: {"quantity":1}
+2018-11-20T05:19:04.548Z - info: Handling GET /create [object Object]
+2018-11-20T05:19:04.550Z - debug: {"quantity":1}
+2018-11-20T05:19:04.839Z - info: Handling GET /create [object Object]
+2018-11-20T05:19:04.842Z - debug: {"quantity":1}
+2018-11-20T05:19:20.787Z - info: Handling GET /create [object Object]
+2018-11-20T05:19:20.791Z - debug: {"quantity":1}
+2018-11-20T05:27:38.590Z - info: Handling GET /create [object Object]
+2018-11-20T05:27:38.591Z - debug: {"quantity":1}
+2018-11-20T05:27:57.717Z - info: Environment variables loaded.
+2018-11-20T05:27:57.724Z - debug: START routing
+2018-11-20T05:27:57.761Z - debug: END routing
+2018-11-20T05:27:57.762Z - info: Routing set as /routes/index.js
+2018-11-20T05:27:57.806Z - info: START seeder.
+2018-11-20T05:27:57.811Z - debug: 5 customers seeded
+2018-11-20T05:27:57.813Z - debug: 5 products seeded
+2018-11-20T05:27:57.816Z - debug: 5 orders seeded
+2018-11-20T05:27:57.820Z - debug: 5 orderLineItems seeded
+2018-11-20T05:27:57.821Z - info: END Seeder. Sample data read and verified.
+2018-11-20T05:28:00.249Z - info: Handling GET /create [object Object]
+2018-11-20T05:28:00.256Z - debug: {"quantity":1}
+2018-11-20T05:31:42.244Z - info: Handling GET /create [object Object]
+2018-11-20T05:31:42.246Z - debug: {"quantity":1}
+2018-11-20T05:34:15.808Z - info: Handling GET /create [object Object]
+2018-11-20T05:34:15.816Z - debug: {"quantity":1}
+2018-11-20T05:34:20.579Z - info: Handling GET /create [object Object]
+2018-11-20T05:34:20.581Z - debug: {"quantity":1}
+2018-11-20T05:34:21.368Z - info: Handling GET /create [object Object]
+2018-11-20T05:34:21.412Z - debug: {"quantity":1}
+2018-11-20T05:35:27.920Z - info: Handling GET /create [object Object]
+2018-11-20T05:35:27.923Z - debug: {"quantity":1}
+2018-11-20T05:37:04.490Z - info: Handling GET /create [object Object]
+2018-11-20T05:37:04.491Z - debug: {"quantity":1}
+2018-11-20T05:38:02.717Z - info: Handling GET /create [object Object]
+2018-11-20T05:38:02.719Z - debug: {"quantity":1}
+2018-11-20T05:40:04.483Z - info: Handling GET /create [object Object]
+2018-11-20T05:40:04.485Z - debug: {"quantity":1}
+2018-11-20T05:40:05.702Z - info: Handling GET /create [object Object]
+2018-11-20T05:40:05.704Z - debug: {"quantity":1}
+2018-11-20T05:40:39.202Z - info: Handling GET /create [object Object]
+2018-11-20T05:40:39.203Z - debug: {"quantity":1}
+2018-11-20T05:42:23.476Z - info: Handling GET /create [object Object]
+2018-11-20T05:42:23.478Z - debug: {"quantity":1}
+2018-11-20T05:42:53.318Z - info: Handling GET /create [object Object]
+2018-11-20T05:42:53.321Z - debug: {"quantity":1}
+2018-11-20T05:43:25.639Z - info: Handling GET /create [object Object]
+2018-11-20T05:43:25.642Z - debug: {"quantity":1}
+2018-11-20T05:43:52.889Z - info: Handling GET /create [object Object]
+2018-11-20T05:43:52.938Z - debug: {"quantity":1}
+2018-11-20T05:43:53.743Z - info: Handling GET /create [object Object]
+2018-11-20T05:43:53.749Z - debug: {"quantity":1}
+2018-11-20T05:44:07.097Z - info: Handling GET /create [object Object]
+2018-11-20T05:44:07.112Z - debug: {"quantity":1}
+2018-11-20T05:44:41.348Z - info: Handling GET /create [object Object]
+2018-11-20T05:44:41.353Z - debug: {"quantity":1}
+2018-11-20T05:45:09.790Z - info: Handling GET /create [object Object]
+2018-11-20T05:45:09.793Z - debug: {"quantity":1}
+2018-11-20T05:45:30.633Z - info: Handling GET /create [object Object]
+2018-11-20T05:45:30.636Z - debug: {"quantity":1}
+2018-11-20T05:46:21.621Z - info: Handling GET /create [object Object]
+2018-11-20T05:46:21.625Z - debug: {"quantity":1}
+2018-11-20T05:47:09.563Z - info: Handling GET /create [object Object]
+2018-11-20T05:47:09.566Z - debug: {"quantity":1}
+2018-11-20T05:48:58.481Z - info: Handling GET /create [object Object]
+2018-11-20T05:48:58.483Z - debug: {"quantity":1}
+2018-11-20T05:49:18.294Z - info: Handling GET /create [object Object]
+2018-11-20T05:49:18.320Z - debug: {"quantity":1}
+2018-11-20T05:50:44.270Z - info: Handling GET /create [object Object]
+2018-11-20T05:50:44.274Z - debug: {"quantity":1}
+2018-11-20T05:53:15.947Z - info: Handling POST [object Object]
+2018-11-20T05:53:15.948Z - debug: {"_id":"8","_orderId":"56767","_lineNumber":"56","_productKey":"khgfd","_quantity":"6"}
+2018-11-20T05:53:15.948Z - info: NEW ID 8
+2018-11-20T05:53:15.954Z - info: SAVING NEW product {"quantity":1,"_id":8}
+2018-11-20T06:01:09.994Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T06:07:54.740Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T06:07:58.225Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T06:08:33.155Z - info: Handling GET /details/:id [object Object]
