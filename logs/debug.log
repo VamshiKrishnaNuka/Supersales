@@ -3343,3 +3343,56 @@ Error: listen EADDRINUSE :::8089
 2018-11-21T00:19:57.780Z - debug: Request to /
 2018-11-21T00:20:21.911Z - info: Handling GET /create [object Object]
 2018-11-21T00:20:21.918Z - debug: {"quantity":1}
+2018-11-21T00:21:36.684Z - info: Environment variables loaded.
+2018-11-21T00:21:36.804Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Tue Nov 20 2018 18:21:36 GMT-0600 (Central Standard Time), pid=29164, uid=null, gid=null, cwd=C:\Users\S533984\Documents\project\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533984\Documents\project\supersales\app.js], rss=58380288, heapTotal=57122816, heapUsed=24379680, external=18521428, loadavg=[0, 0, 0], uptime=15954.3000799
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533984\Documents\project\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533984\Documents\project\supersales\app.js:94:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-21T00:21:36.690Z - debug: START routing
+2018-11-21T00:21:36.725Z - debug: END routing
+2018-11-21T00:21:36.725Z - info: Routing set as /routes/index.js
+2018-11-21T00:21:36.761Z - info: START seeder.
+2018-11-21T00:21:36.765Z - debug: 5 customers seeded
+2018-11-21T00:21:36.767Z - debug: 5 products seeded
+2018-11-21T00:21:36.768Z - debug: 5 orders seeded
+2018-11-21T00:21:36.770Z - debug: 5 orderLineItems seeded
+2018-11-21T00:21:36.771Z - info: END Seeder. Sample data read and verified.
+2018-11-21T00:22:32.252Z - info: Environment variables loaded.
+2018-11-21T00:22:32.374Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Tue Nov 20 2018 18:22:32 GMT-0600 (Central Standard Time), pid=31352, uid=null, gid=null, cwd=C:\Users\S533984\Documents\project\supersales, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533984\Documents\project\supersales\app.js], rss=57139200, heapTotal=38772736, heapUsed=26681112, external=18848662, loadavg=[0, 0, 0], uptime=16009.870928
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\Users\S533984\Documents\project\supersales\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\Users\S533984\Documents\project\supersales\app.js:94:6)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-21T00:22:32.257Z - debug: START routing
+2018-11-21T00:22:32.296Z - debug: END routing
+2018-11-21T00:22:32.296Z - info: Routing set as /routes/index.js
+2018-11-21T00:22:32.333Z - info: START seeder.
+2018-11-21T00:22:32.336Z - debug: 5 customers seeded
+2018-11-21T00:22:32.340Z - debug: 5 products seeded
+2018-11-21T00:22:32.342Z - debug: 5 orders seeded
+2018-11-21T00:22:32.343Z - debug: 5 orderLineItems seeded
+2018-11-21T00:22:32.344Z - info: END Seeder. Sample data read and verified.
+2018-11-21T00:23:52.070Z - debug: Request to /
+2018-11-21T00:24:03.716Z - info: Handling GET /create [object Object]
+2018-11-21T00:24:03.718Z - debug: {"quantity":1}
