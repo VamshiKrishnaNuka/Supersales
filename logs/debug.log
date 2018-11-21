@@ -3330,3 +3330,16 @@ Error: listen EADDRINUSE :::8089
 2018-11-21T00:12:54.131Z - debug: {"_id":"6","EMail":"sneharao0806@gmail.com","datePlaced":"2017-08-08","datetobetaken":"2017-08-09","paymentType":"cash","paid":"false"}
 2018-11-21T00:16:45.684Z - info: Handling POST [object Object]
 2018-11-21T00:16:45.687Z - debug: {"_id":"6","EMail":"sneharao0806@gmail.com","datePlaced":"2017-08-08","datetobetaken":"2017-08-09","paymentType":"cash","paid":"false"}
+2018-11-21T00:19:42.847Z - info: Environment variables loaded.
+2018-11-21T00:19:42.853Z - debug: START routing
+2018-11-21T00:19:42.896Z - debug: END routing
+2018-11-21T00:19:42.897Z - info: Routing set as /routes/index.js
+2018-11-21T00:19:42.946Z - info: START seeder.
+2018-11-21T00:19:42.951Z - debug: 5 customers seeded
+2018-11-21T00:19:42.952Z - debug: 5 products seeded
+2018-11-21T00:19:42.954Z - debug: 5 orders seeded
+2018-11-21T00:19:42.956Z - debug: 5 orderLineItems seeded
+2018-11-21T00:19:42.956Z - info: END Seeder. Sample data read and verified.
+2018-11-21T00:19:57.780Z - debug: Request to /
+2018-11-21T00:20:21.911Z - info: Handling GET /create [object Object]
+2018-11-21T00:20:21.918Z - debug: {"quantity":1}
