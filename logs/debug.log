@@ -3310,3 +3310,23 @@ Error: listen EADDRINUSE :::8089
 2018-11-20T23:56:20.974Z - debug: {"_id":"9","_orderId":"8","_lineNumber":"7","_productKey":"hhuij","_quantity":"7"}
 2018-11-20T23:56:20.980Z - info: NEW ID 9
 2018-11-20T23:56:20.993Z - info: SAVING NEW product {"quantity":1,"_id":9}
+2018-11-21T00:08:21.501Z - info: Environment variables loaded.
+2018-11-21T00:08:21.509Z - debug: START routing
+2018-11-21T00:08:21.550Z - debug: END routing
+2018-11-21T00:08:21.550Z - info: Routing set as /routes/index.js
+2018-11-21T00:08:21.591Z - info: START seeder.
+2018-11-21T00:08:21.596Z - debug: 5 customers seeded
+2018-11-21T00:08:21.598Z - debug: 5 products seeded
+2018-11-21T00:08:21.600Z - debug: 5 orders seeded
+2018-11-21T00:08:21.603Z - debug: 5 orderLineItems seeded
+2018-11-21T00:08:21.603Z - info: END Seeder. Sample data read and verified.
+2018-11-21T00:08:31.952Z - debug: Request to /
+2018-11-21T00:08:38.101Z - info: Handling GET /delete/:id [object Object]
+2018-11-21T00:09:27.606Z - info: Handling GET /edit/:id [object Object]
+2018-11-21T00:09:31.419Z - info: Handling GET /delete/:id [object Object]
+2018-11-21T00:11:43.312Z - info: Handling GET /create[object Object]
+2018-11-21T00:11:43.327Z - debug: {"orderID":555,"datePlaced":"2018-11-21T00:08:21.536Z","paymentType":"not selected yet","paid":false}
+2018-11-21T00:12:54.129Z - info: Handling POST [object Object]
+2018-11-21T00:12:54.131Z - debug: {"_id":"6","EMail":"sneharao0806@gmail.com","datePlaced":"2017-08-08","datetobetaken":"2017-08-09","paymentType":"cash","paid":"false"}
+2018-11-21T00:16:45.684Z - info: Handling POST [object Object]
+2018-11-21T00:16:45.687Z - debug: {"_id":"6","EMail":"sneharao0806@gmail.com","datePlaced":"2017-08-08","datetobetaken":"2017-08-09","paymentType":"cash","paid":"false"}
