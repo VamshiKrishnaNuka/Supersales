@@ -18,12 +18,12 @@ const CustomerSchema = new mongoose.Schema({
     required: true,
     unique: true
   },
-  given: {
+  FirstName: {
     type: String,
     required: true,
     default: 'Given'
   },
-  family: {
+  LastName: {
     type: String,
     required: true,
     default: 'Family'
