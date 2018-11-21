@@ -1,5 +1,22 @@
-<% include header %>
+<% include ../header %>
+<br/>
+<br/>
+<h2>Confirm deletion of product</h2>
+<br/>
+<br/> ID:
+<%=  product._id %>
+<br> Product:
+<%=product.product %>
+<br/> Description:
+<%=product.description%>
+<br/> unitprice:
+ <%=product.unitPrice%>
+        <form method="get" action="/product">
+              <input type="submit" value="Return to list" class="btn btn-caution" />
+            </form>
 
-<p> Products Delete </p>
-
-<% include footer %>
+            <br/>
+            <form method="POST" action="/product/delete/<%= product._id %>">
+              <input type="submit" value="Delete this item" class="btn btn-danger pull-right" />
+            </form>
+<!-- <% include ../footer %> -->

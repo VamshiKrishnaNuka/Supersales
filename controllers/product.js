@@ -1,7 +1,9 @@
 /**
- * controller for product
- * Vamshi Krishna Nuka
+ * Controller for product.
+ * @ Author: Vamshi Krishna Nuka
+ * @ Version: 2018-11-21
  */
+
 const express = require('express')
 const api = express.Router()
 const Model = require('../models/product.js')
@@ -22,9 +24,11 @@ api.get('/findall', (req, res) => {
 // GET one JSON by ID
 api.get('/findone/:id', (req, res) => {
   res.setHeader('Content-Type', 'application/json')
-  const id = parseInt(req.params.id, 10) // base 10
+  const id = parseInt(req.params.id, 10 ) // base 10
+  
   const data = req.app.locals.product.query
-  const item = find(data, { _productid: id })
+  const item = find(data, { _id: id })
+  
   if (!item) { return res.end(notfoundstring) }
   res.send(JSON.stringify(item))
 })
@@ -51,13 +55,13 @@ api.get('/create', (req, res) => {
 
 // GET /delete/:id
 api.get('/delete/:id', (req, res) => {
-  LOG.info(`Handling GET /delete/:id ${req}`)
+  LOG.info(`Handling GET /delete ${req}`)
   const id = parseInt(req.params.id, 10) // base 10
   const data = req.app.locals.product.query
-  const item = find(data, { _productid: id })
+  const item = find(data, { _id: id })
   if (!item) { return res.end(notfoundstring) }
   LOG.info(`RETURNING VIEW FOR ${JSON.stringify(item)}`)
-  return res.render('product/delete.ejs',
+  return res.render('product/delete',
     {
       title: 'Delete product',
       layout: 'layout.ejs',
@@ -70,7 +74,7 @@ api.get('/details/:id', (req, res) => {
   LOG.info(`Handling GET /details/:id ${req}`)
   const id = parseInt(req.params.id, 10) // base 10
   const data = req.app.locals.product.query
-  const item = find(data, { _productid: id })
+  const item = find(data, { _id: id })
   if (!item) { return res.end(notfoundstring) }
   LOG.info(`RETURNING VIEW FOR ${JSON.stringify(item)}`)
   return res.render('product/details.ejs',
@@ -86,7 +90,7 @@ api.get('/edit/:id', (req, res) => {
   LOG.info(`Handling GET /edit/:id ${req}`)
   const id = parseInt(req.params.id, 10) // base 10
   const data = req.app.locals.product.query
-  const item = find(data, { _productid: id })
+  const item = find(data, { _id: id })
   if (!item) { return res.end(notfoundstring) }
   LOG.info(`RETURNING VIEW FOR${JSON.stringify(item)}`)
   return res.render('product/edit.ejs',
@@ -105,19 +109,26 @@ api.post('/save', (req, res) => {
   LOG.debug(JSON.stringify(req.body))
   const data = req.app.locals.product.query
   const item = new Model()
-  LOG.info(`NEW ID ${req.body._productid}`)
-  item._productid = parseInt(req.body._productid, 10) // base 10
-  item.productName = req.body.productName
-  item.productDescription = req.body.productDescription
-  item.price = parseInt(req.body.price, 10)
-  item.productCategory = req.body.productCategory
-  item.sellerId = req.body.sellerId
+  LOG.info(`NEW ID ${req.body._id}`)
+  item._id = parseInt(req.body._id, 10) // base 10
+  item.email = req.body.email
+  item.Firstname = req.body.Firstname
+  item.Lastname = req.body.Lastname
+  item.street1 = req.body.street1
+  item.street2 = req.body.street2
+  item.city = req.body.city
+  item.state = req.body.state
+  item.zip = req.body.zip
+  item.country = req.body.country
+  item.product=req.body.product
+  
+  
 
     data.push(item)
     LOG.info(`SAVING NEW product ${JSON.stringify(item)}`)
     return res.redirect('/product')
-  }
-)
+  
+})
 
 // POST update
 api.post('/save/:id', (req, res) => {
@@ -125,17 +136,23 @@ api.post('/save/:id', (req, res) => {
   const id = parseInt(req.params.id, 10) // base 10
   LOG.info(`Handling SAVING ID=${id}`)
   const data = req.app.locals.product.query
-  const item = find(data, { _productid: id })
+  const item = find(data, { _id: id })
   if (!item) { return res.end(notfoundstring) }
   LOG.info(`ORIGINAL VALUES ${JSON.stringify(item)}`)
   LOG.info(`UPDATED VALUES: ${JSON.stringify(req.body)}`)
-  item.productName = req.body.productName
-  item.productDescription = req.body.productDescription
-  item.price = parseInt(req.body.price, 10)
-  item.productCategory = req.body.productCategory
-  item.sellerId = req.body.sellerId
-  LOG.info(`SAVING UPDATED product ${JSON.stringify(item)}`)
-  return res.redirect('/product')
+  item.email = req.body.email
+  item.Firstname = req.body.Firstname
+  item.Lastname = req.body.Lastname
+  item.street1 = req.body.street1
+  item.street2 = req.body.street2
+  item.city = req.body.city
+  item.state = req.body.state
+  item.zip = req.body.zip
+  item.country = req.body.country
+  item.product=req.body.product
+  
+    LOG.info(`SAVING UPDATED product ${JSON.stringify(item)}`)
+    return res.redirect('/product')
   
 })
 
@@ -145,7 +162,7 @@ api.post('/delete/:id', (req, res) => {
   const id = parseInt(req.params.id, 10) // base 10
   LOG.info(`Handling REMOVING ID=${id}`)
   const data = req.app.locals.product.query
-  const item = find(data, { _productid: id })
+  const item = find(data, { _id: id })
   if (!item) {
     return res.end(notfoundstring)
   }
@@ -153,7 +170,7 @@ api.post('/delete/:id', (req, res) => {
     item.isActive = false
     console.log(`Deacctivated item ${JSON.stringify(item)}`)
   } else {
-    const item = remove(data, { _productid: id })
+    const item = remove(data, { _id: id })
     console.log(`Permanently deleted item ${JSON.stringify(item)}`)
   }
   return res.redirect('/product')

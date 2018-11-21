@@ -1,0 +1,24 @@
+<% include ../header %>
+<!-- main  -->
+<div class=row>
+    <div class="col col-xs-12">       
+      <div class="form-group">
+        <label for="_id">ID</label>
+        <input type="text" class="form-control" id="_id" name="_id" value="<%= products._id %>" required>
+      </div>
+      <div class="form-group">
+        <label for="product">Product</label>
+        <input type="text" class="form-control" id="product" name="product" value="<%= products.product %>" required>
+      </div>
+      <div class="form-group">
+        <label for="description">Description</label>
+        <input type="text" class="form-control" id="description" name="description" value="<%= products.description %>" required>
+      </div>
+      <div class="form-group">
+        <label for="unitprice">Unitprice</label>
+        <input type="text" class="form-control" id="unitprice" name="unitprice" value="<%= products.unitprice %>" required>     
+    </div>
+  </div>
+  <!-- <% include ../footer %> -->
+  
+ 

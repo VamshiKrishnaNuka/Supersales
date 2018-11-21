@@ -22,4 +22,4 @@ const ProductSchema = new mongoose.Schema({
     max: 100000
   }
 })
-module.exports = mongoose.model('Product', ProductSchema)
+module.exports = mongoose.model('product', ProductSchema)

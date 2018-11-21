@@ -1,5 +1,19 @@
-<% include header %>
-
-<p> Products Update </p>
-
-<% include footer %>
+<% include ../header %>
+<br/>
+<br/>
+<h2>product details</h2>
+    <br/> ID:
+    <%=  product._id %>
+    <br> Product:
+     <%=product.product %>
+    <br/> Description:
+    <%=product.description%>
+    <br/> Unitprice:
+      <%=product.unitPrice%>
+    <br/>      
+    <br/>
+    <br/>
+    <form method="get" action="/product">
+    <input type="submit" value="Return to list" class="btn btn-caution" />
+    </form>
+<!-- <% include ../footer %> -->
