@@ -1,19 +1,17 @@
 <% include ../header %>
 <br/>
 <br/>
-<h2>Confirm deletion of customer</h2>
-<br/>
-<br/> ID:
-<%=  customer._id %>
-  <br> Email:
-  <%=customer.email %>
+<h2>customer details</h2>
+    <br/> ID:
+    <%=  customer._id %>
+    <br> Email:
+     <%=customer.email %>
     <br/> FirstName:
     <%=customer.Firstname%>
     <br/> LastName:
       <%=customer.Lastname%>
      <br/>Street Address:
       <%=customer.street1%>
-     <br/>
      <br/>Street Address2:
       <%=customer.street2%>
      <br/>City:
@@ -27,13 +25,7 @@
    <br/>   
             <br/>
             <br/>
-
             <form method="get" action="/Customers">
               <input type="submit" value="Return to list" class="btn btn-caution" />
             </form>
-
-            <br/>
-            <form method="POST" action="/Customers/delete/<%= customer._id %>">
-              <input type="submit" value="Delete this item" class="btn btn-danger pull-right" />
-            </form>
-<% include ../footer %>
+            <% include ../footer %>
