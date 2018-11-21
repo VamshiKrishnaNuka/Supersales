@@ -5,7 +5,7 @@
     <div class="col col-md-12">
       <h2>Edit Customer </h2>
       <div class="content">
-        <form method="POST" action="/Customers/save/<%= customer._id %>">
+        <form method="POST" action="/customer/save/<%= customer._id %>">
           <div class="form-group" id=frm>
             <label for="_id">ID</label>
             <input type="number" class="form-control" id="_id" name="_id" value="<%= customer._id %>" required disabled>
@@ -17,7 +17,7 @@
         </form>
         <br/>
 
-        <form method="get" action="/Customers">
+        <form method="get" action="/customer">
           <input type="submit" value="Return to list" class="btn btn-caution" />
         </form>
       </div>
