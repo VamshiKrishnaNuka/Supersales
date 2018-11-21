@@ -3248,3 +3248,65 @@ Error: listen EADDRINUSE :::8089
 2018-11-20T22:31:04.113Z - debug: 5 orders seeded
 2018-11-20T22:31:04.115Z - debug: 5 orderLineItems seeded
 2018-11-20T22:31:04.116Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:32:53.960Z - info: Environment variables loaded.
+2018-11-20T22:32:53.965Z - debug: START routing
+2018-11-20T22:32:54.000Z - debug: END routing
+2018-11-20T22:32:54.000Z - info: Routing set as /routes/index.js
+2018-11-20T22:32:54.043Z - info: START seeder.
+2018-11-20T22:32:54.047Z - debug: 5 customers seeded
+2018-11-20T22:32:54.050Z - debug: 5 products seeded
+2018-11-20T22:32:54.053Z - debug: 5 orders seeded
+2018-11-20T22:32:54.057Z - debug: 5 orderLineItems seeded
+2018-11-20T22:32:54.057Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:33:05.395Z - info: Environment variables loaded.
+2018-11-20T22:33:05.400Z - debug: START routing
+2018-11-20T22:33:05.440Z - debug: END routing
+2018-11-20T22:33:05.440Z - info: Routing set as /routes/index.js
+2018-11-20T22:33:05.483Z - info: START seeder.
+2018-11-20T22:33:05.487Z - debug: 5 customers seeded
+2018-11-20T22:33:05.488Z - debug: 5 products seeded
+2018-11-20T22:33:05.490Z - debug: 5 orders seeded
+2018-11-20T22:33:05.493Z - debug: 5 orderLineItems seeded
+2018-11-20T22:33:05.493Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:33:41.389Z - info: Environment variables loaded.
+2018-11-20T22:33:41.394Z - debug: START routing
+2018-11-20T22:33:41.429Z - debug: END routing
+2018-11-20T22:33:41.429Z - info: Routing set as /routes/index.js
+2018-11-20T22:33:41.463Z - info: START seeder.
+2018-11-20T22:33:41.466Z - debug: 5 customers seeded
+2018-11-20T22:33:41.468Z - debug: 5 products seeded
+2018-11-20T22:33:41.469Z - debug: 5 orders seeded
+2018-11-20T22:33:41.471Z - debug: 5 orderLineItems seeded
+2018-11-20T22:33:41.471Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:33:54.953Z - debug: Request to /
+2018-11-20T22:33:58.431Z - debug: Request to /
+2018-11-20T22:34:05.172Z - info: Handling GET /details/:id [object Object]
+2018-11-20T22:34:09.158Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T23:43:35.908Z - info: Environment variables loaded.
+2018-11-20T23:43:35.914Z - debug: START routing
+2018-11-20T23:43:35.953Z - debug: END routing
+2018-11-20T23:43:35.954Z - info: Routing set as /routes/index.js
+2018-11-20T23:43:35.998Z - info: START seeder.
+2018-11-20T23:43:36.003Z - debug: 5 customers seeded
+2018-11-20T23:43:36.005Z - debug: 5 products seeded
+2018-11-20T23:43:36.008Z - debug: 5 orders seeded
+2018-11-20T23:43:36.010Z - debug: 5 orderLineItems seeded
+2018-11-20T23:43:36.011Z - info: END Seeder. Sample data read and verified.
+2018-11-20T23:43:47.387Z - debug: Request to /
+2018-11-20T23:43:55.539Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T23:44:01.756Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T23:44:15.104Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T23:44:24.130Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T23:48:01.867Z - info: Handling GET /details/:id [object Object]
+2018-11-20T23:48:08.592Z - info: Handling GET /create[object Object]
+2018-11-20T23:48:08.599Z - debug: {"orderID":555,"datePlaced":"2018-11-20T23:43:35.944Z","paymentType":"not selected yet","paid":false}
+2018-11-20T23:55:05.714Z - info: Handling GET /create[object Object]
+2018-11-20T23:55:05.717Z - debug: {"orderID":555,"datePlaced":"2018-11-20T23:43:35.944Z","paymentType":"not selected yet","paid":false}
+2018-11-20T23:55:47.154Z - info: Handling POST [object Object]
+2018-11-20T23:55:47.155Z - debug: {"_id":"5","_orderId":"8976","_lineNumber":"4","_productKey":"toy","_quantity":"3","email":"sneharao0806@gmail.com","datePlaced":"Tue Nov 20 2018 17:43:35 GMT-0600 (Central Standard Time)","dateShipped":"4-11-18","paymentType":"not selected yet","amountDue":"98","paid":"false"}
+2018-11-20T23:56:01.932Z - info: Handling GET /create [object Object]
+2018-11-20T23:56:01.936Z - debug: {"quantity":1}
+2018-11-20T23:56:20.970Z - info: Handling POST [object Object]
+2018-11-20T23:56:20.974Z - debug: {"_id":"9","_orderId":"8","_lineNumber":"7","_productKey":"hhuij","_quantity":"7"}
+2018-11-20T23:56:20.980Z - info: NEW ID 9
+2018-11-20T23:56:20.993Z - info: SAVING NEW product {"quantity":1,"_id":9}
