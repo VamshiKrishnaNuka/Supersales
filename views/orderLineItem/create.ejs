@@ -14,7 +14,7 @@
 
               <div class="form-group" id=frm>
                 <label for="_id">ID</label>
-                <input type="number" class="form-control" id="_id" name="_id"  required writeonly>
+                <input type="number" class="form-control" id="_id" name="_id"  value="<%= maxID+1 %>" required readonly> 
               </div>
               <div class="form-group" id=frm>
                 <label for="_orderId">order ID</label>
@@ -34,8 +34,8 @@
               </div>
               
 
-              <!-- COMMON TO EDIT AND CREATE -->
-              <%include partial_edit.ejs%>
+              <!-- COMMON TO EDIT AND CREATE 
+              <%include partial_edit.ejs%> -->
 
                 <div class="form-group">
                   <input type="submit" value="Save" class="btn btn-primary" />

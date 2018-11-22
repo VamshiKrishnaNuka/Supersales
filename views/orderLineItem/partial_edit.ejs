@@ -1,0 +1,20 @@
+<div class=row>
+    <div class="col col-xs-12">
+              <div class="form-group" id=frm>
+                <label for="_orderId">order ID</label>
+                <input type="number" class="form-control" id="_orderId" name="_orderId" value="<%= orderLineItem.orderID %>" required writeonly>
+              </div>
+              <div class="form-group" id=frm>
+                <label for="_lineNumber">Line number</label>
+                <input type="number" class="form-control" id="_lineNumber" name="_lineNumber" value="<%= orderLineItem.lineNumber%>" required writeonly>
+              </div>
+              <div class="form-group" id=frm>
+                <label for="_productKey">product Key</label>
+                <input type="string" class="form-control" id="_productKey" name="_productKey" value="<%= orderLineItem.productKey%>" required writeonly>
+              </div>
+              <div class="form-group" id=frm>
+                <label for="_quantity">quantity</label>
+                <input type="number" class="form-control" id="_quantity" name="_quantity" value="<%= orderLineItem.quantity%>" required writeonly>
+              </div>
+    </div>
+  </div>
