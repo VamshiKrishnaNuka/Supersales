@@ -5064,3 +5064,37 @@ TypeError: Router.use() requires a middleware function but got a Object
 2018-11-22T22:48:03.626Z - debug: 5 orders seeded
 2018-11-22T22:48:03.627Z - debug: 5 orderLineItems seeded
 2018-11-22T22:48:03.627Z - info: END Seeder. Sample data read and verified.
+2018-11-29T23:00:28.407Z - info: Environment variables loaded.
+2018-11-29T23:00:28.414Z - debug: START routing
+2018-11-29T23:00:28.456Z - debug: END routing
+2018-11-29T23:00:28.456Z - info: Routing set as /routes/index.js
+2018-11-29T23:00:28.519Z - info: START seeder.
+2018-11-29T23:00:28.524Z - debug: 5 customers seeded
+2018-11-29T23:00:28.526Z - debug: 5 products seeded
+2018-11-29T23:00:28.529Z - debug: 5 orders seeded
+2018-11-29T23:00:28.531Z - debug: 5 orderLineItems seeded
+2018-11-29T23:00:28.531Z - info: END Seeder. Sample data read and verified.
+2018-11-29T23:00:36.216Z - debug: Request to /
+2018-11-29T23:01:18.750Z - debug: Request to /
+2018-11-29T23:02:13.185Z - info: Environment variables loaded.
+2018-11-29T23:02:13.191Z - debug: START routing
+2018-11-29T23:02:13.223Z - debug: END routing
+2018-11-29T23:02:13.223Z - info: Routing set as /routes/index.js
+2018-11-29T23:02:13.263Z - info: START seeder.
+2018-11-29T23:02:13.272Z - debug: 5 customers seeded
+2018-11-29T23:02:13.279Z - debug: 5 products seeded
+2018-11-29T23:02:13.285Z - debug: 5 orders seeded
+2018-11-29T23:02:13.291Z - debug: 5 orderLineItems seeded
+2018-11-29T23:02:13.291Z - info: END Seeder. Sample data read and verified.
+2018-11-29T23:02:20.116Z - debug: Request to /
+2018-11-29T23:06:44.695Z - info: Environment variables loaded.
+2018-11-29T23:06:44.701Z - debug: START routing
+2018-11-29T23:06:44.733Z - debug: END routing
+2018-11-29T23:06:44.733Z - info: Routing set as /routes/index.js
+2018-11-29T23:06:44.770Z - info: START seeder.
+2018-11-29T23:06:44.775Z - debug: 5 customers seeded
+2018-11-29T23:06:44.776Z - debug: 5 products seeded
+2018-11-29T23:06:44.782Z - debug: 5 orders seeded
+2018-11-29T23:06:44.786Z - debug: 5 orderLineItems seeded
+2018-11-29T23:06:44.787Z - info: END Seeder. Sample data read and verified.
+2018-11-29T23:07:10.361Z - debug: Request to /
