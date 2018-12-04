@@ -91,7 +91,7 @@ LOG.info('Routing set as /routes/index.js');
 require('./utils/seeder.js')(app)  
  
  // Listen for an application request on designated port
- app.listen(port, function () {
+ app.listen(process.env.PORT || port, function () {
   console.log('Web app started and listening on http://localhost:' + port)
   console.log('\nLogs will be sent to this terminal and ' + logfile + '.')
  })
