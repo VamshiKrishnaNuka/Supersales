@@ -5109,3 +5109,124 @@ TypeError: Router.use() requires a middleware function but got a Object
 2018-11-29T23:16:38.632Z - debug: 5 orderLineItems seeded
 2018-11-29T23:16:38.632Z - info: END Seeder. Sample data read and verified.
 2018-11-29T23:16:52.700Z - debug: Request to /
+2018-11-30T05:27:13.434Z - info: Environment variables loaded.
+2018-11-30T05:27:13.442Z - debug: START routing
+2018-11-30T05:27:13.489Z - debug: END routing
+2018-11-30T05:27:13.489Z - info: Routing set as /routes/index.js
+2018-11-30T05:27:13.532Z - info: START seeder.
+2018-11-30T05:27:13.541Z - debug: 5 customers seeded
+2018-11-30T05:27:13.545Z - debug: 5 products seeded
+2018-11-30T05:27:13.553Z - debug: 5 orders seeded
+2018-11-30T05:27:13.556Z - debug: 5 orderLineItems seeded
+2018-11-30T05:27:13.556Z - info: END Seeder. Sample data read and verified.
+2018-11-30T05:27:20.246Z - debug: Request to /
+2018-11-30T05:28:06.614Z - info: Environment variables loaded.
+2018-11-30T05:28:06.625Z - debug: START routing
+2018-11-30T05:28:06.699Z - debug: END routing
+2018-11-30T05:28:06.702Z - info: Routing set as /routes/index.js
+2018-11-30T05:28:06.784Z - info: START seeder.
+2018-11-30T05:28:06.797Z - debug: 5 customers seeded
+2018-11-30T05:28:06.805Z - debug: 5 products seeded
+2018-11-30T05:28:06.812Z - debug: 5 orders seeded
+2018-11-30T05:28:06.817Z - debug: 5 orderLineItems seeded
+2018-11-30T05:28:06.818Z - info: END Seeder. Sample data read and verified.
+2018-11-30T05:28:09.290Z - debug: Request to /
+2018-11-30T05:28:10.470Z - debug: Request to /
+2018-11-30T05:29:51.938Z - info: Environment variables loaded.
+2018-11-30T05:29:51.944Z - debug: START routing
+2018-11-30T05:29:51.981Z - debug: END routing
+2018-11-30T05:29:51.981Z - info: Routing set as /routes/index.js
+2018-11-30T05:29:52.029Z - info: START seeder.
+2018-11-30T05:29:52.035Z - debug: 5 customers seeded
+2018-11-30T05:29:52.038Z - debug: 5 products seeded
+2018-11-30T05:29:52.041Z - debug: 5 orders seeded
+2018-11-30T05:29:52.044Z - debug: 5 orderLineItems seeded
+2018-11-30T05:29:52.044Z - info: END Seeder. Sample data read and verified.
+2018-11-30T05:30:02.377Z - debug: Request to /
+2018-11-30T05:30:21.405Z - debug: Request to /
+2018-12-03T23:58:18.382Z - info: Environment variables loaded.
+2018-12-03T23:58:18.390Z - debug: START routing
+2018-12-03T23:58:18.446Z - debug: END routing
+2018-12-03T23:58:18.446Z - info: Routing set as /routes/index.js
+2018-12-03T23:58:18.526Z - info: START seeder.
+2018-12-03T23:58:18.534Z - debug: 5 customers seeded
+2018-12-03T23:58:18.537Z - debug: 5 products seeded
+2018-12-03T23:58:18.541Z - debug: 5 orders seeded
+2018-12-03T23:58:18.544Z - debug: 5 orderLineItems seeded
+2018-12-03T23:58:18.545Z - info: END Seeder. Sample data read and verified.
+2018-12-03T23:58:27.385Z - debug: Request to /
+2018-12-04T00:08:28.508Z - info: Environment variables loaded.
+2018-12-04T00:08:28.512Z - debug: START routing
+2018-12-04T00:08:28.538Z - debug: END routing
+2018-12-04T00:08:28.538Z - info: Routing set as /routes/index.js
+2018-12-04T00:08:28.565Z - info: START seeder.
+2018-12-04T00:08:28.576Z - debug: 5 customers seeded
+2018-12-04T00:08:28.578Z - debug: 5 products seeded
+2018-12-04T00:08:28.582Z - debug: 5 orders seeded
+2018-12-04T00:08:28.584Z - debug: 5 orderLineItems seeded
+2018-12-04T00:08:28.584Z - info: END Seeder. Sample data read and verified.
+2018-12-04T00:08:34.053Z - debug: Request to /
+2018-12-04T00:43:28.640Z - info: Environment variables loaded.
+2018-12-04T00:43:28.646Z - debug: START routing
+2018-12-04T00:43:28.699Z - debug: END routing
+2018-12-04T00:43:28.699Z - info: Routing set as /routes/index.js
+2018-12-04T00:43:28.773Z - info: START seeder.
+2018-12-04T00:43:28.778Z - debug: 5 customers seeded
+2018-12-04T00:43:28.781Z - debug: 5 products seeded
+2018-12-04T00:43:28.783Z - debug: 5 orders seeded
+2018-12-04T00:43:28.786Z - debug: 5 orderLineItems seeded
+2018-12-04T00:43:28.787Z - info: END Seeder. Sample data read and verified.
+2018-12-04T00:43:33.548Z - debug: Request to /
+2018-12-04T00:43:50.457Z - debug: Request to /
+2018-12-04T00:45:43.011Z - debug: Request to /
+2018-12-04T00:46:07.581Z - debug: Request to /
+2018-12-04T00:46:51.946Z - debug: Request to /
+2018-12-04T00:47:14.327Z - debug: Request to /
+2018-12-04T00:48:26.077Z - debug: Request to /
+2018-12-04T00:48:39.352Z - debug: Request to /
+2018-12-04T00:50:27.256Z - debug: Request to /
+2018-12-04T00:50:44.257Z - debug: Request to /
+2018-12-04T00:52:10.132Z - debug: Request to /
+2018-12-04T00:52:24.370Z - debug: Request to /
+2018-12-04T00:53:22.994Z - debug: Request to /
+2018-12-04T00:53:51.850Z - info: Handling GET /create[object Object]
+2018-12-04T00:53:51.862Z - debug: {"productKey":"product","description":"description","unitPrice":9}
+2018-12-04T00:54:21.282Z - debug: Request to /
+2018-12-04T00:54:51.663Z - debug: Request to /
+2018-12-04T00:55:00.570Z - info: Handling GET /details/:id [object Object]
+2018-12-04T00:55:00.575Z - info: RETURNING VIEW FOR {"_id":1,"product":"Coffee Mug","description":"Best mug ever!","unitPrice":9.99}
+2018-12-04T00:55:20.499Z - info: Handling GET /details/:id [object Object]
+2018-12-04T00:55:20.500Z - info: RETURNING VIEW FOR {"_id":1,"product":"Coffee Mug","description":"Best mug ever!","unitPrice":9.99}
+2018-12-04T00:55:40.477Z - debug: Request to /
+2018-12-04T00:55:47.088Z - info: Handling GET /details/:id [object Object]
+2018-12-04T00:55:47.088Z - info: RETURNING VIEW FOR {"_id":1,"product":"Coffee Mug","description":"Best mug ever!","unitPrice":9.99}
+2018-12-04T00:55:51.369Z - info: Handling GET /edit/:id [object Object]
+2018-12-04T00:55:51.370Z - info: RETURNING VIEW FOR{"_id":1,"product":"Coffee Mug","description":"Best mug ever!","unitPrice":9.99}
+2018-12-04T00:56:15.478Z - info: Handling GET /delete [object Object]
+2018-12-04T00:56:15.478Z - info: RETURNING VIEW FOR {"_id":1,"product":"Coffee Mug","description":"Best mug ever!","unitPrice":9.99}
+2018-12-04T00:56:44.600Z - debug: Request to /
+2018-12-04T00:57:37.957Z - debug: Request to /
+2018-12-04T00:58:12.750Z - info: Handling GET /details/:id [object Object]
+2018-12-04T00:58:12.751Z - info: RETURNING VIEW FOR {"_id":5,"email":"S544798@nwmissouri.edu","datePlaced":"2018-11-01","dateShipped":"2018-11-04","paymentType":"Cash","amountDue":40,"paid":true}
+2018-12-04T00:58:38.384Z - info: Handling GET /details/:id [object Object]
+2018-12-04T00:58:38.384Z - info: RETURNING VIEW FOR {"_id":5,"email":"S544798@nwmissouri.edu","datePlaced":"2018-11-01","dateShipped":"2018-11-04","paymentType":"Cash","amountDue":40,"paid":true}
+2018-12-04T00:58:48.712Z - info: Handling GET /edit/:id [object Object]
+2018-12-04T00:58:48.712Z - info: RETURNING VIEW FOR{"_id":5,"email":"S544798@nwmissouri.edu","datePlaced":"2018-11-01","dateShipped":"2018-11-04","paymentType":"Cash","amountDue":40,"paid":true}
+2018-12-04T00:59:14.867Z - info: Handling GET /delete/:id [object Object]
+2018-12-04T00:59:14.868Z - info: RETURNING VIEW FOR {"_id":5,"email":"S544798@nwmissouri.edu","datePlaced":"2018-11-01","dateShipped":"2018-11-04","paymentType":"Cash","amountDue":40,"paid":true}
+2018-12-04T01:00:04.397Z - info: Handling GET /create [object Object]
+2018-12-04T01:00:04.400Z - debug: {"quantity":1}
+2018-12-04T01:00:46.292Z - info: Handling GET /create[object Object]
+2018-12-04T01:00:46.296Z - debug: {"orderID":555,"datePlaced":"2018-12-04T00:43:28.678Z","paymentType":"not selected yet","paid":false}
+2018-12-04T01:01:16.355Z - info: Handling GET /edit/:id [object Object]
+2018-12-04T01:01:16.356Z - info: RETURNING VIEW FOR{"_id":5,"orderID":87452,"lineNumber":5,"productKey":"Mobile","quantity":1}
+2018-12-04T01:02:45.779Z - debug: Request to /
+2018-12-04T01:02:52.055Z - info: Handling GET /create[object Object]
+2018-12-04T01:02:52.058Z - debug: {"FirstName":"Given","LastName":"Family","street1":"Street 1","street2":"","city":"Maryville","state":"MO","zip":"64468","country":"USA"}
+2018-12-04T01:03:09.862Z - info: Handling GET /create[object Object]
+2018-12-04T01:03:09.864Z - debug: {"FirstName":"Given","LastName":"Family","street1":"Street 1","street2":"","city":"Maryville","state":"MO","zip":"64468","country":"USA"}
+2018-12-04T01:03:35.408Z - info: Handling GET /edit/:id [object Object]
+2018-12-04T01:03:35.408Z - info: RETURNING VIEW FOR{"_id":1,"email":"dcase@nwmissouri.edu","Firstname":"Denise","Lastname":"Case","street1":"800 University Drive","street2":"","city":"Maryville","state":"MO","zip":64468,"country":"USA"}
+2018-12-04T01:04:39.396Z - debug: Request to /
+2018-12-04T01:07:02.520Z - debug: Request to /
+2018-12-04T01:07:39.268Z - debug: Request to /
