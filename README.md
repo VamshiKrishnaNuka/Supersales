@@ -38,6 +38,6 @@ This workshop emphasizes team members on developing an Ecommerce application or 
 
 ## Resources
 
-[GitHub](www.github.com)
+[BitBucket](https://bitbucket.org/VamshiKrishnaNuka/supersales/src/master/)
 
-[denise case](https://github.com/profcase/)
+[Heroku](https://murmuring-depths-21990.herokuapp.com/)
