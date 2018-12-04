@@ -24,7 +24,7 @@ This workshop emphasizes team members on developing an Ecommerce application or 
 
 1.Accept the repo group invitation
 
-2.Clone the repo to the local machine.
+2.Clone the repo to the local machine. 
 
 3.Work on the assigned topic.
 
